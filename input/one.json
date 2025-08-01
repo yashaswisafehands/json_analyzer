@@ -1,0 +1,2102 @@
+{
+    "chapters": [
+        {
+            "key": "bp-140-15090100_1486816049815",
+            "langId": "",
+            "cards": [
+                {
+                    "id": 5,
+                    "content": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "2f2sf",
+                                "text": "Blood Pressure 140-149/90-99 mmHg",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    },
+                    "type": "alphabetical",
+                    "adapted": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "2f2sf",
+                                "text": "",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    },
+                    "translated": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "2f2sf",
+                                "text": "",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": 1,
+                    "content": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "ajjia",
+                                "text": "If no signs of severe preeclampsia (see definitions):",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [
+                                    {
+                                        "offset": 34,
+                                        "length": 1,
+                                        "style": "BOLD"
+                                    }
+                                ],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    },
+                    "type": "paragraph",
+                    "adapted": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "ajjia",
+                                "text": "If no signs of severe preeclampsia (see definitions):",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [
+                                    {
+                                        "offset": 3,
+                                        "length": 32,
+                                        "style": "BOLD"
+                                    }
+                                ],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    },
+                    "translated": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "ajjia",
+                                "text": "ຖ້າບໍ່ມີສັນຍານຂອງການກຽມຊັກກະຕຸກຮຸນແຮງ (ເບິ່ງຕາມຄໍານິຍາມ) ",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [
+                                    {
+                                        "offset": 0,
+                                        "length": 37,
+                                        "style": "BOLD"
+                                    }
+                                ],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": 7,
+                    "content": {},
+                    "type": "paragraph",
+                    "adapted": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "a6dtg",
+                                "text": "Send home. ",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    },
+                    "translated": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "ms6g",
+                                "text": "ໃຫ້ກັບບ້ານ",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": 8,
+                    "content": {},
+                    "type": "paragraph",
+                    "adapted": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "5dotq",
+                                "text": "Schedule follow up appointment in 3-4 days, instruct in danger signs.",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    },
+                    "translated": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "bj8pv",
+                                "text": "ນັດກັບມາກວດຄືນ 3-4 ວັນຕໍ່ໄປ, ບອກໃຫ້ຮູ້ສັນຍານອັນຕະລາຍຕ່າງໆ",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": 9,
+                    "content": {},
+                    "type": "paragraph",
+                    "adapted": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "emjcs",
+                                "text": "Plan delivery at referral facility, induction of labor at gestational age 38-39 if this procedure is performed and if gestational age is known.",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    },
+                    "translated": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "1t0hl",
+                                "text": "ວາງແຜນໃຫ້ເກີດລູກຢູ່ສະຖານທີ່ບໍລິການສຸຂະພາບທີ່ມີເງື່ອນໄຂ, ລວມທັງການຊັກນໍາການເກີດເມື່ອຖືພາໄດ້ 38-39 ອາທິດ ຖ້າວ່າຮູ້ອາຍຸການຖືພາຊັດເຈນ",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": 11,
+                    "content": {
+                        "src": "/richtext/flowchart_English-BP 140-149:90-99"
+                    },
+                    "type": "image",
+                    "adapted": {
+                        "src": "/key learning points/Hypertension/headache-and-visual-disturbance"
+                    },
+                    "translated": {
+                        "src": "/key learning points/Hypertension/headache-and-visual-disturbance"
+                    }
+                }
+            ],
+            "description": "BP 140-150/90/100",
+            "next_id": 5
+        },
+        {
+            "key": "bp-150-160100110_1486816264206",
+            "langId": "",
+            "cards": [
+                {
+                    "id": 12,
+                    "content": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "4jipt",
+                                "text": "Blood Pressure 150-159/100-109 mmHg",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    },
+                    "type": "alphabetical",
+                    "adapted": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "4jipt",
+                                "text": "",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    },
+                    "translated": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "4jipt",
+                                "text": "",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": 1,
+                    "content": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "f9qbb",
+                                "text": "Admit and observe.",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    },
+                    "type": "paragraph",
+                    "adapted": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "f9qbb",
+                                "text": "Admit and observe.",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    },
+                    "translated": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "f9qbb",
+                                "text": "ຮັບເຂົ້າໃນໂຮງໝໍ ແລະ ຕິດຕາມ",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": 2,
+                    "content": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "7gqko",
+                                "text": "Assess blood pressure",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    },
+                    "type": "paragraph",
+                    "adapted": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "7gqko",
+                                "text": "Assess BP every 8 hours.",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    },
+                    "translated": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "7gqko",
+                                "text": "ແທກຄວາມດັນເລືອດທຸກໆ 8 ຊົ່ວໂມງ",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": 14,
+                    "content": {},
+                    "type": "paragraph",
+                    "adapted": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "cff5u",
+                                "text": "If blood pressure persists start oral antihypertensives for example:",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    },
+                    "translated": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "ehtse",
+                                "text": "ຖ້າຄວາມດັນເລືອດຫາກຄົງຢູ່ເກົ່າຍາວນານໃຫ້ຢາລົດຄວາມດັນເລືອດກິນທາງປາກ ເຊັ່ນ :",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": 15,
+                    "content": {},
+                    "type": "paragraph",
+                    "adapted": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "clmr8",
+                                "text": "Labetatol starting dose: 100 mg orally every 8 hours (can be repeated hourly) ",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [],
+                                "entityRanges": [],
+                                "data": {}
+                            },
+                            {
+                                "key": "1jbrr",
+                                "text": "",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [],
+                                "entityRanges": [],
+                                "data": {}
+                            },
+                            {
+                                "key": "5c8p3",
+                                "text": "OR",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [],
+                                "entityRanges": [],
+                                "data": {}
+                            },
+                            {
+                                "key": "512d4",
+                                "text": "",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [],
+                                "entityRanges": [],
+                                "data": {}
+                            },
+                            {
+                                "key": "e8eqd",
+                                "text": "Methyldopa starting dose: 250 mg orally every 8 hours.",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    },
+                    "translated": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "5h80c",
+                                "text": "Labetatol ເລີ່ມໃຫ້ກິນຈາກຂະໜາດ : 100 mg ທຸກໆ 8 ຊົ່ວໂມງ (ສາມາດໃຫ້ຄືນໄດ້ອີກ ທຸກຊົ່ວໂມງ) ",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [],
+                                "entityRanges": [],
+                                "data": {}
+                            },
+                            {
+                                "key": "athgf",
+                                "text": "",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [],
+                                "entityRanges": [],
+                                "data": {}
+                            },
+                            {
+                                "key": "7aono",
+                                "text": "ຫຼື",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [],
+                                "entityRanges": [],
+                                "data": {}
+                            },
+                            {
+                                "key": "bgohe",
+                                "text": "",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [],
+                                "entityRanges": [],
+                                "data": {}
+                            },
+                            {
+                                "key": "8k5no",
+                                "text": "Methyldopa ເລີ່ມໃຫ້ກິນຈາກຂະໜາດ : 250 mg ທຸກໆ 8 ຊົ່ວໂມງ",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": 16,
+                    "content": {},
+                    "type": "divider",
+                    "adapted": {},
+                    "translated": {}
+                },
+                {
+                    "id": 17,
+                    "content": {},
+                    "type": "paragraph",
+                    "adapted": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "5oj0r",
+                                "text": "See drug list for more details.",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    },
+                    "translated": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "1g745",
+                                "text": "ເບິ່ງລາຍລະອຽດຕາມລາຍການຢາເພີ່ມເຕີມອີກ",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": 18,
+                    "content": {},
+                    "type": "paragraph",
+                    "adapted": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "26bih",
+                                "text": "If blood pressure is reduced to between 140-150 systolic and 90-100 diastolic AND if there are no signs of severe preeclampsia (see definitions), the patient can be sent home.",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [],
+                                "entityRanges": [],
+                                "data": {}
+                            },
+                            {
+                                "key": "60p39",
+                                "text": "",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [],
+                                "entityRanges": [],
+                                "data": {}
+                            },
+                            {
+                                "key": "9qf19",
+                                "text": "Schedule follow up appointment in 3-4 days, instruct in danger signs.",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    },
+                    "translated": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "5naqr",
+                                "text": "ຖ້າຄວາມດັນເລືອດເບື້ອງເທິງລົດລົງມາຢູ່ລະຫວ່າງ 140-150 ແລະ ເບື້ອງລຸ່ມ 90-100 ແລະ ບໍ່ມີສັນຍານຂອງການກຽມຊັກກະຕຸກຮຸນແຮງ (ໃຫ້ເບິ່ງຄໍານິຍາມ) ຄົນເຈັບສາມາດກັບບ້ານໄດ້",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [],
+                                "entityRanges": [],
+                                "data": {}
+                            },
+                            {
+                                "key": "9cqf9",
+                                "text": "",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [],
+                                "entityRanges": [],
+                                "data": {}
+                            },
+                            {
+                                "key": "5vqm6",
+                                "text": "ນັດກັບມາກວດຄືນ 3-4 ວັນຕໍ່ໄປ ພ້ອມທັງບອກສັນຍານອັນຕະລາຍຕ່າງໆ",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": 19,
+                    "content": {},
+                    "type": "paragraph",
+                    "adapted": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "fnn4r",
+                                "text": "Plan for delivery at referral facility, induction of labor at gestational age 38-39 if this procedure is performed and if gestational age is known.",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    },
+                    "translated": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "b3pmt",
+                                "text": "ວາງແຜນໃຫ້ເກີດລູກຢູ່ສະຖານທີ່ບໍລິການສຸຂະພາບທີ່ມີເງື່ອນໄຂ, ລວມທັງການຊັກນໍາການເກີດເມື່ອຖືພາໄດ້ 38-39 ອາທິດ ຖ້າວ່າຮູ້ອາຍຸການຖືພາຊັດເຈນ",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": 22,
+                    "content": {
+                        "src": "/richtext/flowchart_English-BP 150-159:100-109"
+                    },
+                    "type": "image",
+                    "adapted": {
+                        "src": "/icon/module/hypertension"
+                    },
+                    "translated": {
+                        "src": "/icon/module/hypertension"
+                    }
+                }
+            ],
+            "description": "BP 150-160/100/110",
+            "next_id": 12
+        },
+        {
+            "key": "severe-preeclampsia_1486816564029",
+            "langId": "",
+            "cards": [
+                {
+                    "id": 31,
+                    "content": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "enms3",
+                                "text": "Severe preeclampsia",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    },
+                    "type": "alphabetical",
+                    "adapted": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "enms3",
+                                "text": "",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    },
+                    "translated": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "enms3",
+                                "text": "",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": 1,
+                    "content": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "8al59",
+                                "text": "See definitions.",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    },
+                    "type": "paragraph",
+                    "adapted": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "8al59",
+                                "text": "See definitions.",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    },
+                    "translated": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "8al59",
+                                "text": "ເບິ່ງຄໍານິຍາມ",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": 2,
+                    "content": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "ahion",
+                                "text": "Admit and treat.",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    },
+                    "type": "paragraph",
+                    "adapted": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "ahion",
+                                "text": "Admit and treat.",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    },
+                    "translated": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "ahion",
+                                "text": "ຮັບເຂົ້ານອນ ແລະ ໃຫ້ການປິ່ນປົວ",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": 37,
+                    "content": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "49bgc",
+                                "text": "REMEMBER",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    },
+                    "type": "important_text",
+                    "adapted": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "49bgc",
+                                "text": "",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    },
+                    "translated": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "49bgc",
+                                "text": "",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": 38,
+                    "content": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "6qc7o",
+                                "text": "The single most important aim is to keep systolic BP below 160 mmHg.",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    },
+                    "type": "paragraph",
+                    "adapted": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "6qc7o",
+                                "text": "The single most important aim is to keep systolic BP below 160 mmHg.",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    },
+                    "translated": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "6qc7o",
+                                "text": "ອັນໜຶ່ງທີ່ສໍາຄັນທີ່ສຸດແມ່ນແນໃສ່ໃຫ້ຄວາມດັນເລືອດເບື້ອງເທິງຕໍ່າກວ່າ 160 mmHg!",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": 4,
+                    "content": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "1j247",
+                                "text": "Insert indwelling urine catheter.",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    },
+                    "type": "paragraph",
+                    "adapted": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "1j247",
+                                "text": "Insert indwelling urine catheter.",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    },
+                    "translated": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "1j247",
+                                "text": "ແຍ່ຍ່ຽວຄ້າງໄວ້",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": 5,
+                    "content": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "ago2t",
+                                "text": "Monitor each ½ hour until stable, then each 8 hours:",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    },
+                    "type": "paragraph",
+                    "adapted": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "ago2t",
+                                "text": "Monitor each ½ hour until stable, then each 8 hours: ",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    },
+                    "translated": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "ago2t",
+                                "text": "ຕິດຕາມທຸກໆ 30ນາທີ ຈົນກວ່າອາການຈະປົກກະຕິ, ຫຼັງຈາກນັ້ນແມ່ນຕິດຕາມທຸກໆ 8 ຊົ່ວໂມງ",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": 6,
+                    "content": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "18ql9",
+                                "text": "Fluid balance",
+                                "type": "ordered-list-item",
+                                "depth": 0,
+                                "inlineStyleRanges": [],
+                                "entityRanges": [],
+                                "data": {}
+                            },
+                            {
+                                "key": "a2gg4",
+                                "text": "Respiratory rate",
+                                "type": "ordered-list-item",
+                                "depth": 0,
+                                "inlineStyleRanges": [],
+                                "entityRanges": [],
+                                "data": {}
+                            },
+                            {
+                                "key": "rt83",
+                                "text": "Blood pressure",
+                                "type": "ordered-list-item",
+                                "depth": 0,
+                                "inlineStyleRanges": [],
+                                "entityRanges": [],
+                                "data": {}
+                            },
+                            {
+                                "key": "kd0k",
+                                "text": "Tendon reflexes",
+                                "type": "ordered-list-item",
+                                "depth": 0,
+                                "inlineStyleRanges": [],
+                                "entityRanges": [],
+                                "data": {}
+                            },
+                            {
+                                "key": "eh1vd",
+                                "text": "Foetal heart rate  ",
+                                "type": "ordered-list-item",
+                                "depth": 0,
+                                "inlineStyleRanges": [],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    },
+                    "type": "ol",
+                    "adapted": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "18ql9",
+                                "text": "Fluid balance",
+                                "type": "ordered-list-item",
+                                "depth": 0,
+                                "inlineStyleRanges": [],
+                                "entityRanges": [],
+                                "data": {}
+                            },
+                            {
+                                "key": "a2gg4",
+                                "text": "Respiratory rate",
+                                "type": "ordered-list-item",
+                                "depth": 0,
+                                "inlineStyleRanges": [],
+                                "entityRanges": [],
+                                "data": {}
+                            },
+                            {
+                                "key": "rt83",
+                                "text": "Blood pressure",
+                                "type": "ordered-list-item",
+                                "depth": 0,
+                                "inlineStyleRanges": [],
+                                "entityRanges": [],
+                                "data": {}
+                            },
+                            {
+                                "key": "kd0k",
+                                "text": "Tendon reflexes",
+                                "type": "ordered-list-item",
+                                "depth": 0,
+                                "inlineStyleRanges": [],
+                                "entityRanges": [],
+                                "data": {}
+                            },
+                            {
+                                "key": "eh1vd",
+                                "text": "Foetal heart rate  ",
+                                "type": "ordered-list-item",
+                                "depth": 0,
+                                "inlineStyleRanges": [],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    },
+                    "translated": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "18ql9",
+                                "text": "ຄວາມດຸ່ນດ່ຽງຂອງສານນໍ້າ ",
+                                "type": "ordered-list-item",
+                                "depth": 0,
+                                "inlineStyleRanges": [],
+                                "entityRanges": [],
+                                "data": {}
+                            },
+                            {
+                                "key": "a8vrg",
+                                "text": "ອັດຕາການຫາຍໃຈ",
+                                "type": "ordered-list-item",
+                                "depth": 0,
+                                "inlineStyleRanges": [],
+                                "entityRanges": [],
+                                "data": {}
+                            },
+                            {
+                                "key": "buk13",
+                                "text": "ຄວາມດັນເລືອດ",
+                                "type": "ordered-list-item",
+                                "depth": 0,
+                                "inlineStyleRanges": [],
+                                "entityRanges": [],
+                                "data": {}
+                            },
+                            {
+                                "key": "105nd",
+                                "text": "ການກະທົບຕອບ",
+                                "type": "ordered-list-item",
+                                "depth": 0,
+                                "inlineStyleRanges": [],
+                                "entityRanges": [],
+                                "data": {}
+                            },
+                            {
+                                "key": "15f4b",
+                                "text": "ອັດຕາການເຕັ້ນຂອງຫົວໃຈເດັກໃນທ້ອງ",
+                                "type": "ordered-list-item",
+                                "depth": 0,
+                                "inlineStyleRanges": [],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": 7,
+                    "content": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "frnmv",
+                                "text": "If severe features persist: Plan referral for delivery within 24 hours.",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    },
+                    "type": "paragraph",
+                    "adapted": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "frnmv",
+                                "text": "If severe features persist: Plan referral for delivery within 24 hours.",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    },
+                    "translated": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "frnmv",
+                                "text": "ຖ້າອາການຮຸນແຮງດັ່ງກ່າວຫາກຍັງສືບຕໍ່: ວາງແຜນນໍາສົ່ງຄົນເຈັບໄປເກີດລູກຢູ່ບ່ອນມີເງື່ອນໄຂພາຍໃນ 24 ຊົ່ວໂມງ",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": 8,
+                    "content": {},
+                    "type": "divider",
+                    "adapted": {},
+                    "translated": {}
+                },
+                {
+                    "id": 32,
+                    "content": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "dt8bt",
+                                "text": "Managing blood pressure",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    },
+                    "type": "alphabetical",
+                    "adapted": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "dt8bt",
+                                "text": "Managing blood pressure",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    },
+                    "translated": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "dt8bt",
+                                "text": "ການຄຸ້ມຄອງຄວາມດັນເລືອດສູງ",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": 10,
+                    "content": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "aaa4f",
+                                "text": "At blood pressure between 150-160/100-110 start oral antihypertensives for example:",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [
+                                    {
+                                        "offset": 48,
+                                        "length": 22,
+                                        "style": "BOLD"
+                                    }
+                                ],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    },
+                    "type": "paragraph",
+                    "adapted": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "aaa4f",
+                                "text": "If systolic blood pressure is between 160-180 mmHg OR diastolic 110-120 mmHg start oral antihypertensives for example:",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    },
+                    "translated": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "aaa4f",
+                                "text": "ຖ້າຄວາມດັນເລືອດເບື້ອງເທິງຢູ່ລະຫວ່າງ 160-180 mmHg ຫຼື ເບື່້ອງລຸ່ມ 110-120 mmHg ເລີ່ມໃຫ້ກິນຢາລົດຄວາມດັນເລືອດ ເຊັ່ນ :",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [
+                                    {
+                                        "offset": 0,
+                                        "length": 35,
+                                        "style": "BOLD"
+                                    }
+                                ],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": 11,
+                    "content": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "24dkd",
+                                "text": "Labetatol starting dose: 200 mg orally every 6-12 hours.",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [
+                                    {
+                                        "offset": 0,
+                                        "length": 10,
+                                        "style": "BOLD"
+                                    },
+                                    {
+                                        "offset": 25,
+                                        "length": 30,
+                                        "style": "BOLD"
+                                    }
+                                ],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    },
+                    "type": "paragraph",
+                    "adapted": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "24dkd",
+                                "text": "Labetatol starting dose: 100 mg orally every 8 hours (can be repeated hourly)",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [
+                                    {
+                                        "offset": 0,
+                                        "length": 25,
+                                        "style": "BOLD"
+                                    },
+                                    {
+                                        "offset": 0,
+                                        "length": 10,
+                                        "style": "BLUE"
+                                    }
+                                ],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    },
+                    "translated": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "24dkd",
+                                "text": "Labetatol ເລີ່ມຈາກຂະໜາດ : 100 mg ກິນທຸກໆ 8 ຊົ່ວໂມງ (ສາມາດໃຫ້ຄືນໄດ້ອີກທຸກຊົ່ວໂມງ)",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [
+                                    {
+                                        "offset": 0,
+                                        "length": 26,
+                                        "style": "BOLD"
+                                    },
+                                    {
+                                        "offset": 0,
+                                        "length": 10,
+                                        "style": "BLUE"
+                                    }
+                                ],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": 12,
+                    "content": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "8avn6",
+                                "text": "OR",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    },
+                    "type": "paragraph",
+                    "adapted": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "8avn6",
+                                "text": "OR",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    },
+                    "translated": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "8avn6",
+                                "text": "ຫຼື",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": 13,
+                    "content": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "bhpcf",
+                                "text": "Methyldopa starting dose: 250 mg orally every 6-8 hours.",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [
+                                    {
+                                        "offset": 0,
+                                        "length": 10,
+                                        "style": "BOLD"
+                                    },
+                                    {
+                                        "offset": 26,
+                                        "length": 29,
+                                        "style": "BOLD"
+                                    },
+                                    {
+                                        "offset": 10,
+                                        "length": 1,
+                                        "style": "BLUE"
+                                    }
+                                ],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    },
+                    "type": "paragraph",
+                    "adapted": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "bhpcf",
+                                "text": "Methyldopa starting dose: 250 mg orally every 8 hours.",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [
+                                    {
+                                        "offset": 0,
+                                        "length": 11,
+                                        "style": "BOLD"
+                                    },
+                                    {
+                                        "offset": 0,
+                                        "length": 11,
+                                        "style": "BLUE"
+                                    }
+                                ],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    },
+                    "translated": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "bhpcf",
+                                "text": "Methyldopa ເລີ່ມໃຫ້ກິນ 250 mg ທຸກໆ 8 ຊົ່ວໂມງ",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [
+                                    {
+                                        "offset": 0,
+                                        "length": 11,
+                                        "style": "BOLD"
+                                    },
+                                    {
+                                        "offset": 0,
+                                        "length": 11,
+                                        "style": "BLUE"
+                                    }
+                                ],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": 14,
+                    "content": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "99h1n",
+                                "text": "Persisting blood pressure above 159 systolic or above 109 diastolic must be treated with IV.",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    },
+                    "type": "paragraph",
+                    "adapted": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "99h1n",
+                                "text": "If systolic blood pressure is above 180 or remains above 160 after oral treatment OR diastolic blood pressure is above 120 or remains above 110 after oral treatment: Treat with IV anti-hypertensives, for example Hydralazine 5 mg IV.",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [
+                                    {
+                                        "offset": 212,
+                                        "length": 11,
+                                        "style": "BLUE"
+                                    },
+                                    {
+                                        "offset": 212,
+                                        "length": 11,
+                                        "style": "BOLD"
+                                    }
+                                ],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    },
+                    "translated": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "99h1n",
+                                "text": "ຖ້າຄວາມດັນເລືອດເບື້ອງເທິງ ຢູ່ລະຫວ່າງ 180 ຫຼື ຍັງຄົງຢູ່ສູງກວ່າ 160 ຫຼັງຈາກໃຫ້ກິນຢາແລ້ວ ຫຼື ຄວາມດັນເລືອດເບື້ອງລຸ່ມຍັງສູງກວ່າ 120 ຫຼືຍັງສູງກວ່າ 110ຫຼັງຈາກກິນຢາ : ໃຫ້ຢາລົດຄວາມດັນເລືອດ ເຊັ່ນ : Hydralazine 5 mg IV",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [
+                                    {
+                                        "offset": 188,
+                                        "length": 11,
+                                        "style": "BLUE"
+                                    },
+                                    {
+                                        "offset": 188,
+                                        "length": 11,
+                                        "style": "BOLD"
+                                    }
+                                ],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": 15,
+                    "content": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "ec2rq",
+                                "text": "See drug list for more details.",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    },
+                    "type": "paragraph",
+                    "adapted": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "ec2rq",
+                                "text": "See drug list for more details.",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    },
+                    "translated": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "ec2rq",
+                                "text": "ເບິ່ງລາຍລະອຽດຕາມການຢາເພີ່ມເຕີມ",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": 16,
+                    "content": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "701u",
+                                "text": "Assess the blood pressure every 15 minutes and treat with IV according to the suitable antihypertensives in the drug list until the blood pressure is below 160/110.",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [
+                                    {
+                                        "offset": 87,
+                                        "length": 17,
+                                        "style": "BOLD"
+                                    }
+                                ],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    },
+                    "type": "paragraph",
+                    "adapted": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "701u",
+                                "text": "Assess blood pressure every 15 minutes. Repeat after 20 minutes until BP is below 160/110.",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    },
+                    "translated": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "701u",
+                                "text": "ປະເມີນຄວາມດັນເລືອດທຸກໆ 15 ນາທີ. ໃຫ້ຢາອີກ 20 ນາທີ ຕໍ່ມາຈົນກະທັ່ງຄວາມດັນລົດນລົງມາຕໍ່າກວ່າ 160/110",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": 18,
+                    "content": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "f281c",
+                                "text": "See drug list for more details.",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    },
+                    "type": "paragraph",
+                    "adapted": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "f281c",
+                                "text": "See drug list for more details.",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    },
+                    "translated": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "f281c",
+                                "text": "ເບິ່ງລາຍລະອຽດຕາມການຢາເພີ່ມເຕີມ",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": 33,
+                    "content": {},
+                    "type": "divider",
+                    "adapted": {},
+                    "translated": {}
+                },
+                {
+                    "id": 34,
+                    "content": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "bu0bm",
+                                "text": "Prevention of eclampsia",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    },
+                    "type": "alphabetical",
+                    "adapted": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "bu0bm",
+                                "text": "Prevention of eclampsia",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    },
+                    "translated": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "bu0bm",
+                                "text": "ການປ້ອງກັນພາວະຊັກກະຕຸກ",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": 40,
+                    "content": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "bipl2",
+                                "text": "",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    },
+                    "type": "paragraph",
+                    "adapted": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "bipl2",
+                                "text": "Give loading dose Magnesium Sulphate 4 gr IV Slowly (over 10 minutes) (You can mix it with for example 100 ml normal saline running 3 drops per second).",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    },
+                    "translated": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "bipl2",
+                                "text": "ໃຫ້ Magnesium Sulphate ຂະໜາດທໍາອິດ 4 g IV ຊ້າໆ (ຫຼາຍກວ່າ 10 ນາທີ) (ທ່ານສາມາດປະສົມໃສ່ກັບ normal saline 100 ml ແລະ ປ່ອຍ 3 ຢອດ/ວິນາທີ )",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": 45,
+                    "content": {},
+                    "type": "paragraph",
+                    "adapted": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "736rr",
+                                "text": "If normal tendon reflexes and breathing:",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    },
+                    "translated": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "171pv",
+                                "text": "ຖ້າການກະທົບຕອບ ແລະ ຫາຍໃຈປົກກະຕິ :",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": 43,
+                    "content": {},
+                    "type": "paragraph",
+                    "adapted": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "c6l08",
+                                "text": "Give maintenance dose Magnesium Sulphate 5 gr IM in each buttock (You can add ½ ml. 2% lidocaine for pain relief).",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [],
+                                "entityRanges": [],
+                                "data": {}
+                            },
+                            {
+                                "key": "4l493",
+                                "text": "",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [],
+                                "entityRanges": [],
+                                "data": {}
+                            },
+                            {
+                                "key": "9ft2q",
+                                "text": "",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [],
+                                "entityRanges": [],
+                                "data": {}
+                            },
+                            {
+                                "key": "dudru",
+                                "text": "See drug list for more details.",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    },
+                    "translated": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "9qdfg",
+                                "text": "ໃຫ້ Magnesium Sulphate ໃນປະມານທີ່ຮັກສາໄວ້ 5g ສັກ IM ເຂົ້າກ້າມຊີ້ນກະໂພກແຕ່ລະເບື້ອງ (ທ່ານສາມາດປະສົມກັບ lidocaine ( 2%) 1/2 ml ເພື່ອຫຼຸດຜ່ອນຄວາມເຈັບປວດ)",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [],
+                                "entityRanges": [],
+                                "data": {}
+                            },
+                            {
+                                "key": "96q1k",
+                                "text": "",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [],
+                                "entityRanges": [],
+                                "data": {}
+                            },
+                            {
+                                "key": "5vbfc",
+                                "text": "ເບິ່ງຕາມລາຍການຢາເພີ່ມເຕີມ",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": 42,
+                    "content": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "5i6ma",
+                                "text": "",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    },
+                    "type": "important_text",
+                    "adapted": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "5i6ma",
+                                "text": "\t",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [],
+                                "entityRanges": [],
+                                "data": {}
+                            },
+                            {
+                                "key": "9rndv",
+                                "text": "Beware of toxicity!",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    },
+                    "translated": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "5i6ma",
+                                "text": "ລະວັງການເກີດອາການຊຶມເບື່ອ!",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": 41,
+                    "content": {},
+                    "type": "paragraph",
+                    "adapted": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "bo9c7",
+                                "text": "The first sign is loss of tendon reflexes; a more severe sign is respiratory depression with a respiratory rate of 15 per minute or less.",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    },
+                    "translated": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "9qs9o",
+                                "text": "ສັນຍານທໍາອິດແມ່ນສູນເສຍການກະທົບຕອບ; ສັນຍານຮ້າຍແຮງແມ່ນມີການກົດທັບເສັ້ນທາງຫາຍໃຈ, ອັດຕາການຫາຍໃຈ 15 ຄັ້ງ/ນາທີ ຫຼືໜ້ອຍກວ່ານັ້ນ.",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [],
+                                "entityRanges": [],
+                                "data": {}
+                            },
+                            {
+                                "key": "b3gni",
+                                "text": "",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": 44,
+                    "content": {},
+                    "type": "paragraph",
+                    "adapted": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "31hve",
+                                "text": "Then you don’t give the intramuscular dose of Magnesium Sulphate.",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    },
+                    "translated": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "qnop",
+                                "text": "ຖ້າເປັນດັ່ງນັ້ນແມ່ນບໍ່ໃຫ້ສັກ Magnesium Sulphate ອີກ",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": 47,
+                    "content": {
+                        "src": "/richtext/flowchart_English-Prevention-of-eclampsia"
+                    },
+                    "type": "image",
+                    "adapted": {
+                        "src": "/richtext/flowchart_English-Prevention-of-eclampsia"
+                    },
+                    "translated": {
+                        "src": "/richtext/flowchart_English-Prevention-of-eclampsia"
+                    }
+                }
+            ],
+            "description": "Severe Preeclampsia",
+            "next_id": 31
+        }
+    ],
+    "key": "management-hypertension_1486815930026",
+    "langId": "3163c8ae-e97e-2ad3-986d-82868e1b342b",
+    "cards": [],
+    "description": "Hypertension Management Hypertension",
+    "icon": "/icon/actioncard/hypertension_management_hypertension",
+    "LastUpdatedBy": "katrine@maternity.dk",
+    "LastUpdated": 1554122963341,
+    "_table": "action-cards",
+    "id": "5f46e292-044a-76c7-0b96-dc81c91c5a09",
+    "_rid": "gco8APGv2QY8DQAAAAAAAA==",
+    "_self": "dbs/gco8AA==/colls/gco8APGv2QY=/docs/gco8APGv2QY8DQAAAAAAAA==/",
+    "_etag": "\"3d009a2b-0000-0000-0000-5ca208d30000\"",
+    "_attachments": "attachments/",
+    "_ts": 1554122963
+}
