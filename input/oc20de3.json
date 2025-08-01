@@ -1,0 +1,976 @@
+{
+    "chapters": [
+        {
+            "key": "_1486808279407",
+            "langId": "",
+            "cards": [
+                {
+                    "id": 1,
+                    "content": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "ac64p",
+                                "text": "CALL FOR HELP!",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    },
+                    "type": "important_text",
+                    "adapted": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "ac64p",
+                                "text": "CALL FOR HELP!",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    },
+                    "translated": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "62jdk",
+                                "text": "CALL FOR HELP! ",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": 2,
+                    "content": {},
+                    "type": "divider",
+                    "adapted": {},
+                    "translated": ""
+                },
+                {
+                    "id": 3,
+                    "content": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "1bgq4",
+                                "text": "AIRWAY",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    },
+                    "type": "alphabetical",
+                    "adapted": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "1bgq4",
+                                "text": "AIRWAY",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    },
+                    "translated": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "4vd6c",
+                                "text": "AIRWAY",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [
+                                    {
+                                        "offset": 0,
+                                        "length": 6,
+                                        "style": "BOLD"
+                                    }
+                                ],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": 4,
+                    "content": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "cva2n",
+                                "text": "Position so free. Suction if obstructed.",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    },
+                    "type": "paragraph",
+                    "adapted": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "cva2n",
+                                "text": "Position so free. Suction if obstructed.",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    },
+                    "translated": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "6vcjd",
+                                "text": "Position so free. Suction if obstructed.",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": 5,
+                    "content": {},
+                    "type": "divider",
+                    "adapted": {},
+                    "translated": ""
+                },
+                {
+                    "id": 6,
+                    "content": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "946hr",
+                                "text": "BREATHING",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    },
+                    "type": "alphabetical",
+                    "adapted": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "946hr",
+                                "text": "BREATHING",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    },
+                    "translated": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "esuto",
+                                "text": "BREATHING",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [
+                                    {
+                                        "offset": 0,
+                                        "length": 9,
+                                        "style": "BOLD"
+                                    }
+                                ],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": 7,
+                    "content": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "bci6n",
+                                "text": "If no breathing, rub the back for 10 seconds.",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    },
+                    "type": "paragraph",
+                    "adapted": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "bci6n",
+                                "text": "If no breathing, rub the back for 10 seconds.",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    },
+                    "translated": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "ee2h0",
+                                "text": "If no breathing, rub the back for 10 seconds.",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": 8,
+                    "content": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "f6b12",
+                                "text": "If still no breathing or respiratory rate slower than 30 per minute: Start bag and mask ventilation.",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [
+                                    {
+                                        "offset": 69,
+                                        "length": 31,
+                                        "style": "BOLD"
+                                    }
+                                ],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    },
+                    "type": "paragraph",
+                    "adapted": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "f6b12",
+                                "text": "If still no breathing or respiratory rate slower than 30 per minute: Start bag and mask ventilation.",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [
+                                    {
+                                        "offset": 69,
+                                        "length": 31,
+                                        "style": "BOLD"
+                                    }
+                                ],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    },
+                    "translated": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "3pf7q",
+                                "text": "If still no breathing or respiratory rate slower than 30 per minute: Start bag and mask ventilation.",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [
+                                    {
+                                        "offset": 69,
+                                        "length": 31,
+                                        "style": "BOLD"
+                                    }
+                                ],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": 10,
+                    "content": {},
+                    "type": "divider",
+                    "adapted": {},
+                    "translated": ""
+                },
+                {
+                    "id": 9,
+                    "content": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "7cj4p",
+                                "text": "CIRCULATION",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    },
+                    "type": "alphabetical",
+                    "adapted": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "7cj4p",
+                                "text": "CIRCULATION",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    },
+                    "translated": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "7o11r",
+                                "text": "CIRCULATION",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [
+                                    {
+                                        "offset": 0,
+                                        "length": 11,
+                                        "style": "BOLD"
+                                    }
+                                ],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": 11,
+                    "content": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "8ohjm",
+                                "text": "If the newborn is drowsy, unconscious or convulsing:",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    },
+                    "type": "paragraph",
+                    "adapted": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "8ohjm",
+                                "text": "If the newborn is drowsy, unconscious or convulsing:",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    },
+                    "translated": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "a7sf1",
+                                "text": "If the newborn is drowsy, unconscious or convulsing:",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": 12,
+                    "content": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "18ql9",
+                                "text": "Measure blood glucose. If you cannot measure, assume low blood sugar and treat.",
+                                "type": "ordered-list-item",
+                                "depth": 0,
+                                "inlineStyleRanges": [
+                                    {
+                                        "offset": 23,
+                                        "length": 55,
+                                        "style": "BOLD"
+                                    }
+                                ],
+                                "entityRanges": [],
+                                "data": {}
+                            },
+                            {
+                                "key": "7ivql",
+                                "text": "If blood glucose is below 2.2 give Glucose 10% 2 ML/kg IV.",
+                                "type": "ordered-list-item",
+                                "depth": 0,
+                                "inlineStyleRanges": [
+                                    {
+                                        "offset": 35,
+                                        "length": 12,
+                                        "style": "BOLD"
+                                    }
+                                ],
+                                "entityRanges": [],
+                                "data": {}
+                            },
+                            {
+                                "key": "6fnqv",
+                                "text": "Alternatively give expressed breast milk 10 ml/kg by nasogastric tube.",
+                                "type": "ordered-list-item",
+                                "depth": 0,
+                                "inlineStyleRanges": [],
+                                "entityRanges": [],
+                                "data": {}
+                            },
+                            {
+                                "key": "2eapk",
+                                "text": "If convulsions last more than 3 minutes or are brief serial seizures, give Phenobarbital 10 ml/kg IM/IV (max 40 mg/kg).",
+                                "type": "ordered-list-item",
+                                "depth": 0,
+                                "inlineStyleRanges": [
+                                    {
+                                        "offset": 75,
+                                        "length": 13,
+                                        "style": "BOLD"
+                                    }
+                                ],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    },
+                    "type": "ol",
+                    "adapted": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "18ql9",
+                                "text": "Measure blood glucose. If you cannot measure, assume low blood sugar and treat.",
+                                "type": "ordered-list-item",
+                                "depth": 0,
+                                "inlineStyleRanges": [
+                                    {
+                                        "offset": 23,
+                                        "length": 55,
+                                        "style": "BOLD"
+                                    }
+                                ],
+                                "entityRanges": [],
+                                "data": {}
+                            },
+                            {
+                                "key": "7ivql",
+                                "text": "If blood glucose is below 2.2 give Glucose 10% 2 ML/kg IV.",
+                                "type": "ordered-list-item",
+                                "depth": 0,
+                                "inlineStyleRanges": [
+                                    {
+                                        "offset": 35,
+                                        "length": 12,
+                                        "style": "BOLD"
+                                    }
+                                ],
+                                "entityRanges": [],
+                                "data": {}
+                            },
+                            {
+                                "key": "6fnqv",
+                                "text": "Alternatively give expressed breast milk 10 ml/kg by nasogastric tube.",
+                                "type": "ordered-list-item",
+                                "depth": 0,
+                                "inlineStyleRanges": [],
+                                "entityRanges": [],
+                                "data": {}
+                            },
+                            {
+                                "key": "2eapk",
+                                "text": "If convulsions last more than 3 minutes or are brief serial seizures, give Phenobarbital 10 ml/kg IM/IV (max 40 mg/kg).",
+                                "type": "ordered-list-item",
+                                "depth": 0,
+                                "inlineStyleRanges": [
+                                    {
+                                        "offset": 75,
+                                        "length": 13,
+                                        "style": "BOLD"
+                                    }
+                                ],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    },
+                    "translated": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "18ql9",
+                                "text": "",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [],
+                                "entityRanges": [],
+                                "data": {}
+                            },
+                            {
+                                "key": "25sqm",
+                                "text": "Measure blood glucose. If you cannot measure, assume low blood sugar and treat.",
+                                "type": "ordered-list-item",
+                                "depth": 0,
+                                "inlineStyleRanges": [
+                                    {
+                                        "offset": 23,
+                                        "length": 55,
+                                        "style": "BOLD"
+                                    }
+                                ],
+                                "entityRanges": [],
+                                "data": {}
+                            },
+                            {
+                                "key": "ft4v7",
+                                "text": "If blood glucose is below 2.2 give Glucose 10% 2 ML/kg IV.",
+                                "type": "ordered-list-item",
+                                "depth": 0,
+                                "inlineStyleRanges": [
+                                    {
+                                        "offset": 35,
+                                        "length": 12,
+                                        "style": "BOLD"
+                                    }
+                                ],
+                                "entityRanges": [],
+                                "data": {}
+                            },
+                            {
+                                "key": "e2hv8",
+                                "text": "Alternatively give expressed breast milk 10 ml/kg by nasogastric tube.",
+                                "type": "ordered-list-item",
+                                "depth": 0,
+                                "inlineStyleRanges": [],
+                                "entityRanges": [],
+                                "data": {}
+                            },
+                            {
+                                "key": "8b6i5",
+                                "text": "If convulsions last more than 3 minutes or are brief serial seizures, give Phenobarbital 10 ml/kg IM/IV (max 40 mg/kg).",
+                                "type": "ordered-list-item",
+                                "depth": 0,
+                                "inlineStyleRanges": [
+                                    {
+                                        "offset": 75,
+                                        "length": 13,
+                                        "style": "BOLD"
+                                    }
+                                ],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": 13,
+                    "content": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "2opk2",
+                                "text": "Repeat if necessary.",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    },
+                    "type": "paragraph",
+                    "adapted": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "2opk2",
+                                "text": "Repeat if necessary.",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    },
+                    "translated": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "5m8k7",
+                                "text": "Repeat if necessary.",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": 14,
+                    "content": {},
+                    "type": "divider",
+                    "adapted": {},
+                    "translated": ""
+                },
+                {
+                    "id": 15,
+                    "content": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "bn560",
+                                "text": "At any danger sign suspect severe infection  ",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [
+                                    {
+                                        "offset": 0,
+                                        "length": 44,
+                                        "style": "BOLD"
+                                    }
+                                ],
+                                "entityRanges": [],
+                                "data": {}
+                            },
+                            {
+                                "key": "fevr6",
+                                "text": "(sepsis or meningitis)",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [
+                                    {
+                                        "offset": 0,
+                                        "length": 22,
+                                        "style": "BOLD"
+                                    }
+                                ],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    },
+                    "type": "important_text",
+                    "adapted": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "bn560",
+                                "text": "At any danger sign suspect severe infection  ",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [
+                                    {
+                                        "offset": 0,
+                                        "length": 44,
+                                        "style": "BOLD"
+                                    }
+                                ],
+                                "entityRanges": [],
+                                "data": {}
+                            },
+                            {
+                                "key": "fevr6",
+                                "text": "(sepsis or meningitis)",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [
+                                    {
+                                        "offset": 0,
+                                        "length": 22,
+                                        "style": "BOLD"
+                                    }
+                                ],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    },
+                    "translated": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "6limh",
+                                "text": "At any danger sign suspect severe infection  ",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [
+                                    {
+                                        "offset": 0,
+                                        "length": 44,
+                                        "style": "BOLD"
+                                    }
+                                ],
+                                "entityRanges": [],
+                                "data": {}
+                            },
+                            {
+                                "key": "e6vb8",
+                                "text": "(sepsis or meningitis)",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [
+                                    {
+                                        "offset": 0,
+                                        "length": 22,
+                                        "style": "BOLD"
+                                    }
+                                ],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": 16,
+                    "content": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "c95tc",
+                                "text": "Give antibiotics Ampicillin and Gentamycin IV/IM according to age and weight.",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [
+                                    {
+                                        "offset": 17,
+                                        "length": 10,
+                                        "style": "BOLD"
+                                    },
+                                    {
+                                        "offset": 32,
+                                        "length": 10,
+                                        "style": "BOLD"
+                                    },
+                                    {
+                                        "offset": 17,
+                                        "length": 11,
+                                        "style": "BLUE"
+                                    },
+                                    {
+                                        "offset": 32,
+                                        "length": 16,
+                                        "style": "BLUE"
+                                    }
+                                ],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    },
+                    "type": "paragraph",
+                    "adapted": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "c95tc",
+                                "text": "Give antibiotics Ampicillin and Gentamycin IV/IM according to age and weight.",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [
+                                    {
+                                        "offset": 17,
+                                        "length": 10,
+                                        "style": "BOLD"
+                                    },
+                                    {
+                                        "offset": 32,
+                                        "length": 10,
+                                        "style": "BOLD"
+                                    },
+                                    {
+                                        "offset": 17,
+                                        "length": 11,
+                                        "style": "BLUE"
+                                    },
+                                    {
+                                        "offset": 32,
+                                        "length": 16,
+                                        "style": "BLUE"
+                                    }
+                                ],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    },
+                    "translated": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "9cn0i",
+                                "text": "Give antibiotics Ampicillin and Gentamycin IV/IM according to age and weight.",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [
+                                    {
+                                        "offset": 17,
+                                        "length": 10,
+                                        "style": "BOLD"
+                                    },
+                                    {
+                                        "offset": 32,
+                                        "length": 10,
+                                        "style": "BOLD"
+                                    }
+                                ],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": 17,
+                    "content": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "ecej6",
+                                "text": "If no improvement after 2 days, change to broader antibiotics, Ceftriaxone.",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [
+                                    {
+                                        "offset": 63,
+                                        "length": 11,
+                                        "style": "BOLD"
+                                    },
+                                    {
+                                        "offset": 63,
+                                        "length": 11,
+                                        "style": "BLUE"
+                                    }
+                                ],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    },
+                    "type": "paragraph",
+                    "adapted": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "ecej6",
+                                "text": "If no improvement after 2 days, change to broader antibiotics, Ceftriaxone.",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [
+                                    {
+                                        "offset": 63,
+                                        "length": 11,
+                                        "style": "BOLD"
+                                    },
+                                    {
+                                        "offset": 63,
+                                        "length": 11,
+                                        "style": "BLUE"
+                                    }
+                                ],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    },
+                    "translated": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "420pd",
+                                "text": "If no improvement after 2 days, change to broader antibiotics, Ceftriaxone.",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [
+                                    {
+                                        "offset": 63,
+                                        "length": 11,
+                                        "style": "BOLD"
+                                    }
+                                ],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    }
+                }
+            ],
+            "description": "",
+            "next_id": 18
+        }
+    ],
+    "key": "management-of-danger-signs_1486808272156",
+    "langId": "3112adcd-21c9-a91c-4934-14213013851b",
+    "cards": [],
+    "description": "Newborn Management Management of Danger Signs",
+    "icon": "/icon/actioncard/newborn_management_Management_of_danger_signs",
+    "LastUpdatedBy": "jeppe@ingolfs.dk",
+    "LastUpdated": 1486849494041,
+    "_table": "action-cards",
+    "id": "0c20d3e5-b6c7-99d8-1ab5-034ad608b803",
+    "_rid": "gco8APGv2QZRAQAAAAAAAA==",
+    "_self": "dbs/gco8AA==/colls/gco8APGv2QY=/docs/gco8APGv2QZRAQAAAAAAAA==/",
+    "_etag": "\"00006704-0000-0000-0000-58ae07ba0000\"",
+    "_attachments": "attachments/",
+    "_ts": 1487800244
+}

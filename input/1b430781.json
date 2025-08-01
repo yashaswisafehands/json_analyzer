@@ -1,0 +1,923 @@
+{
+    "chapters": [
+        {
+            "key": "_1486813171298",
+            "langId": "",
+            "cards": [
+                {
+                    "id": 4,
+                    "content": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "3g26v",
+                                "text": "RESPIRATORY DISTRESS",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    },
+                    "type": "alphabetical",
+                    "adapted": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "3g26v",
+                                "text": "RESPIRATORY DISTRESS",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    },
+                    "translated": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "f19uh",
+                                "text": "RESPIRATORY DISTRESS",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [
+                                    {
+                                        "offset": 0,
+                                        "length": 20,
+                                        "style": "BOLD"
+                                    }
+                                ],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": 5,
+                    "content": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "b6120",
+                                "text": "At labor before 34 gestational weeks or estimated birth weight below 2 kg give the mother Betamethasone 12 mg IM twice",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [
+                                    {
+                                        "offset": 90,
+                                        "length": 14,
+                                        "style": "BOLD"
+                                    },
+                                    {
+                                        "offset": 90,
+                                        "length": 22,
+                                        "style": "BLUE"
+                                    }
+                                ],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    },
+                    "type": "paragraph",
+                    "adapted": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "b6120",
+                                "text": "At labor before 34 gestational weeks or estimated birth weight below 2 kg give the mother Betamethasone 12 mg IM twice.",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [
+                                    {
+                                        "offset": 90,
+                                        "length": 14,
+                                        "style": "BOLD"
+                                    },
+                                    {
+                                        "offset": 90,
+                                        "length": 22,
+                                        "style": "BLUE"
+                                    }
+                                ],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    },
+                    "translated": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "4ruf4",
+                                "text": "At labor before 34 gestational weeks or estimated birth weight below 2 kg give the mother Betamethasone 12 mg IM twice.",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [
+                                    {
+                                        "offset": 90,
+                                        "length": 14,
+                                        "style": "BOLD"
+                                    }
+                                ],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": 7,
+                    "content": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "7k1ep",
+                                "text": "OR",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    },
+                    "type": "paragraph",
+                    "adapted": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "7k1ep",
+                                "text": "OR",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    },
+                    "translated": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "2sl8s",
+                                "text": "OR",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": 8,
+                    "content": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "cijpb",
+                                "text": "Dexamethasone 6 mg four times 12 hours apart.",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [
+                                    {
+                                        "offset": 0,
+                                        "length": 13,
+                                        "style": "BOLD"
+                                    },
+                                    {
+                                        "offset": 0,
+                                        "length": 18,
+                                        "style": "BLUE"
+                                    }
+                                ],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    },
+                    "type": "paragraph",
+                    "adapted": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "cijpb",
+                                "text": "Dexamethasone 6 mg four times 12 hours apart.",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [
+                                    {
+                                        "offset": 0,
+                                        "length": 13,
+                                        "style": "BOLD"
+                                    },
+                                    {
+                                        "offset": 0,
+                                        "length": 18,
+                                        "style": "BLUE"
+                                    }
+                                ],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    },
+                    "translated": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "62d0t",
+                                "text": "Dexamethasone 6 mg four times 12 hours apart.",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [
+                                    {
+                                        "offset": 0,
+                                        "length": 13,
+                                        "style": "BOLD"
+                                    }
+                                ],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": 9,
+                    "content": {},
+                    "type": "divider",
+                    "adapted": {},
+                    "translated": ""
+                },
+                {
+                    "id": 10,
+                    "content": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "4isp6",
+                                "text": "SEVERE INFECTION",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    },
+                    "type": "alphabetical",
+                    "adapted": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "4isp6",
+                                "text": "SEVERE INFECTION",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    },
+                    "translated": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "ttka",
+                                "text": "SEVERE INFECTION",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [
+                                    {
+                                        "offset": 0,
+                                        "length": 16,
+                                        "style": "BOLD"
+                                    }
+                                ],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": 11,
+                    "content": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "73m7p",
+                                "text": "If membranes ruptures before 37 gestational weeks or more than 18 hours before delivery.",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    },
+                    "type": "paragraph",
+                    "adapted": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "73m7p",
+                                "text": "If membranes ruptures before 37 gestational weeks or more than 18 hours before delivery.",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    },
+                    "translated": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "c3ehq",
+                                "text": "If membranes ruptures before 37 gestational weeks or more than 18 hours before delivery.",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": 12,
+                    "content": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "1ak3p",
+                                "text": "OR",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    },
+                    "type": "paragraph",
+                    "adapted": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "1ak3p",
+                                "text": "OR",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    },
+                    "translated": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "ar5c",
+                                "text": "OR",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": 13,
+                    "content": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "11rbe",
+                                "text": "Fever above 38˚C before or during delivery.",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    },
+                    "type": "paragraph",
+                    "adapted": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "11rbe",
+                                "text": "Fever above 38˚C before or during delivery.",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    },
+                    "translated": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "5t6gd",
+                                "text": "Fever above 38˚C before or during delivery.",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": 14,
+                    "content": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "8btic",
+                                "text": "Give the mother Ampicillin 2 g IV every 6 hour.",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [
+                                    {
+                                        "offset": 16,
+                                        "length": 10,
+                                        "style": "BOLD"
+                                    }
+                                ],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    },
+                    "type": "paragraph",
+                    "adapted": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "8btic",
+                                "text": "Give the mother Ampicillin 2 g IV every 6 hour. ",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [
+                                    {
+                                        "offset": 16,
+                                        "length": 10,
+                                        "style": "BOLD"
+                                    }
+                                ],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    },
+                    "translated": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "9p5ba",
+                                "text": "Give the mother Ampicillin 2 g IV every 6 hour. ",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [
+                                    {
+                                        "offset": 16,
+                                        "length": 10,
+                                        "style": "BOLD"
+                                    }
+                                ],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": 15,
+                    "content": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "c5hh8",
+                                "text": "AND",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    },
+                    "type": "paragraph",
+                    "adapted": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "c5hh8",
+                                "text": "AND",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    },
+                    "translated": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "89f2e",
+                                "text": "AND",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": 16,
+                    "content": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "8jjue",
+                                "text": "Give the newborn Ampicillin 50 mg/kg IV or IM twice daily for five days and Gentamycin 5 mg/kg IV or IM once daily for minimum 3 days.",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [
+                                    {
+                                        "offset": 17,
+                                        "length": 54,
+                                        "style": "BOLD"
+                                    },
+                                    {
+                                        "offset": 76,
+                                        "length": 58,
+                                        "style": "BOLD"
+                                    },
+                                    {
+                                        "offset": 17,
+                                        "length": 117,
+                                        "style": "BLUE"
+                                    }
+                                ],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    },
+                    "type": "paragraph",
+                    "adapted": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "8jjue",
+                                "text": "Give the newborn Ampicillin 50 mg/kg IV or IM twice daily for five days and Gentamycin 5 mg/kg IV or IM once daily for minimum 3 days.",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [
+                                    {
+                                        "offset": 17,
+                                        "length": 54,
+                                        "style": "BOLD"
+                                    },
+                                    {
+                                        "offset": 76,
+                                        "length": 58,
+                                        "style": "BOLD"
+                                    },
+                                    {
+                                        "offset": 17,
+                                        "length": 117,
+                                        "style": "BLUE"
+                                    }
+                                ],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    },
+                    "translated": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "dcra9",
+                                "text": "Give the newborn Ampicillin 50 mg/kg IV or IM twice daily for five days and Gentamycin 5 mg/kg IV or IM once daily for minimum 3 days.",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [
+                                    {
+                                        "offset": 17,
+                                        "length": 54,
+                                        "style": "BOLD"
+                                    },
+                                    {
+                                        "offset": 76,
+                                        "length": 58,
+                                        "style": "BOLD"
+                                    },
+                                    {
+                                        "offset": 17,
+                                        "length": 117,
+                                        "style": "BLUE"
+                                    }
+                                ],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": 17,
+                    "content": {},
+                    "type": "divider",
+                    "adapted": {},
+                    "translated": ""
+                },
+                {
+                    "id": 18,
+                    "content": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "e31va",
+                                "text": "LOW BLOOD SUGAR",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    },
+                    "type": "alphabetical",
+                    "adapted": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "e31va",
+                                "text": "LOW BLOOD SUGAR",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    },
+                    "translated": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "3co59",
+                                "text": "LOW BLOOD SUGAR ",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [
+                                    {
+                                        "offset": 0,
+                                        "length": 15,
+                                        "style": "BOLD"
+                                    }
+                                ],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": 19,
+                    "content": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "9vihu",
+                                "text": "If newborn with asphyxia or danger signs:",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    },
+                    "type": "paragraph",
+                    "adapted": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "9vihu",
+                                "text": "If newborn with asphyxia or danger signs:",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    },
+                    "translated": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "1bv3t",
+                                "text": "If newborn with asphyxia or danger signs:",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": 20,
+                    "content": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "18ql9",
+                                "text": "Keep the newborn warm by skin to skin contact with the mother.",
+                                "type": "ordered-list-item",
+                                "depth": 0,
+                                "inlineStyleRanges": [],
+                                "entityRanges": [],
+                                "data": {}
+                            },
+                            {
+                                "key": "do8cr",
+                                "text": "Start breastfeeding within half hour and feed every 2 hours.",
+                                "type": "ordered-list-item",
+                                "depth": 0,
+                                "inlineStyleRanges": [],
+                                "entityRanges": [],
+                                "data": {}
+                            },
+                            {
+                                "key": "a31tv",
+                                "text": "If unable to suck give expressed milk 10 ml/kg in a cup or by nasogastric tube.",
+                                "type": "ordered-list-item",
+                                "depth": 0,
+                                "inlineStyleRanges": [],
+                                "entityRanges": [],
+                                "data": {}
+                            },
+                            {
+                                "key": "v6nl",
+                                "text": "If not possible or the newborn vomits give Glucose 10% 5 ml/kg/hour IV.",
+                                "type": "ordered-list-item",
+                                "depth": 0,
+                                "inlineStyleRanges": [
+                                    {
+                                        "offset": 43,
+                                        "length": 11,
+                                        "style": "BOLD"
+                                    }
+                                ],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    },
+                    "type": "ol",
+                    "adapted": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "18ql9",
+                                "text": "Keep the newborn warm by skin to skin contact with the mother.",
+                                "type": "ordered-list-item",
+                                "depth": 0,
+                                "inlineStyleRanges": [],
+                                "entityRanges": [],
+                                "data": {}
+                            },
+                            {
+                                "key": "do8cr",
+                                "text": "Start breastfeeding within half hour and feed every 2 hours.",
+                                "type": "ordered-list-item",
+                                "depth": 0,
+                                "inlineStyleRanges": [],
+                                "entityRanges": [],
+                                "data": {}
+                            },
+                            {
+                                "key": "a31tv",
+                                "text": "If unable to suck give expressed milk 10 ml/kg in a cup or by nasogastric tube.",
+                                "type": "ordered-list-item",
+                                "depth": 0,
+                                "inlineStyleRanges": [],
+                                "entityRanges": [],
+                                "data": {}
+                            },
+                            {
+                                "key": "v6nl",
+                                "text": "If not possible or the newborn vomits give Glucose 10% 5 ml/kg/hour IV.",
+                                "type": "ordered-list-item",
+                                "depth": 0,
+                                "inlineStyleRanges": [
+                                    {
+                                        "offset": 43,
+                                        "length": 11,
+                                        "style": "BOLD"
+                                    }
+                                ],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    },
+                    "translated": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "18ql9",
+                                "text": "Keep the newborn warm by skin to skin contact with the mother. ",
+                                "type": "ordered-list-item",
+                                "depth": 0,
+                                "inlineStyleRanges": [],
+                                "entityRanges": [],
+                                "data": {}
+                            },
+                            {
+                                "key": "99dma",
+                                "text": "Start breastfeeding within half hour and feed every 2 hours.",
+                                "type": "ordered-list-item",
+                                "depth": 0,
+                                "inlineStyleRanges": [],
+                                "entityRanges": [],
+                                "data": {}
+                            },
+                            {
+                                "key": "8nk60",
+                                "text": "If unable to suck give expressed milk 10 ml/kg in a cup or by nasogastric tube.",
+                                "type": "ordered-list-item",
+                                "depth": 0,
+                                "inlineStyleRanges": [],
+                                "entityRanges": [],
+                                "data": {}
+                            },
+                            {
+                                "key": "87jn3",
+                                "text": "If not possible or the newborn vomits give Glucose 10% 5 ml/kg/hour IV.",
+                                "type": "ordered-list-item",
+                                "depth": 0,
+                                "inlineStyleRanges": [
+                                    {
+                                        "offset": 43,
+                                        "length": 11,
+                                        "style": "BOLD"
+                                    }
+                                ],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    }
+                }
+            ],
+            "description": "",
+            "next_id": 21
+        }
+    ],
+    "key": "prevention_1486813119229",
+    "langId": "3112adcd-21c9-a91c-4934-14213013851b",
+    "cards": [],
+    "description": "Newborn Management Prevention",
+    "icon": "/icon/actioncard/newborn_management_prevention",
+    "LastUpdatedBy": "jeppe@ingolfs.dk",
+    "LastUpdated": 1486849814455,
+    "_table": "action-cards",
+    "id": "1b430781-b1b7-26ff-0cf6-d9066a7598c3",
+    "_rid": "gco8APGv2QZSAQAAAAAAAA==",
+    "_self": "dbs/gco8AA==/colls/gco8APGv2QY=/docs/gco8APGv2QZSAQAAAAAAAA==/",
+    "_etag": "\"00007804-0000-0000-0000-58ae07bb0000\"",
+    "_attachments": "attachments/",
+    "_ts": 1487800245
+}

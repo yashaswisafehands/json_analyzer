@@ -1,0 +1,1234 @@
+{
+    "chapters": [
+        {
+            "key": "_1486807614864",
+            "langId": "",
+            "cards": [
+                {
+                    "id": 1,
+                    "content": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "73a3s",
+                                "text": "AIRWAYS",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    },
+                    "type": "alphabetical",
+                    "adapted": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "73a3s",
+                                "text": "AIRWAYS",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    },
+                    "translated": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "bk04s",
+                                "text": "AIRWAYS ",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [
+                                    {
+                                        "offset": 0,
+                                        "length": 7,
+                                        "style": "BOLD"
+                                    }
+                                ],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": 2,
+                    "content": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "f7dbb",
+                                "text": "Free and safe (no obstruction)",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    },
+                    "type": "paragraph",
+                    "adapted": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "f7dbb",
+                                "text": "Free and safe (no obstruction)",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    },
+                    "translated": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "cfkl2",
+                                "text": "Free and safe (no obstruction) ",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": 3,
+                    "content": {},
+                    "type": "divider",
+                    "adapted": {},
+                    "translated": ""
+                },
+                {
+                    "id": 4,
+                    "content": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "145io",
+                                "text": "BREATHING",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    },
+                    "type": "alphabetical",
+                    "adapted": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "145io",
+                                "text": "BREATHING",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    },
+                    "translated": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "8lo8u",
+                                "text": "BREATHING ",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [
+                                    {
+                                        "offset": 0,
+                                        "length": 9,
+                                        "style": "BOLD"
+                                    }
+                                ],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": 5,
+                    "content": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "78faf",
+                                "text": "Respiratory rate slower than 30 or faster than 60 per minute.",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    },
+                    "type": "paragraph",
+                    "adapted": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "78faf",
+                                "text": "Respiratory rate slower than 30 or faster than 60 per minute.",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    },
+                    "translated": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "1so5l",
+                                "text": "Respiratory rate slower than 30 or faster than 60 per minute.",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": 6,
+                    "content": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "2dgoi",
+                                "text": "Cyanosis.",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    },
+                    "type": "paragraph",
+                    "adapted": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "2dgoi",
+                                "text": "Cyanosis.",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    },
+                    "translated": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "dehcs",
+                                "text": "Cyanosis.",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": 7,
+                    "content": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "ceen5",
+                                "text": "Severe chest in drawings.",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    },
+                    "type": "paragraph",
+                    "adapted": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "ceen5",
+                                "text": "Severe chest in drawings.",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    },
+                    "translated": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "4b2q8",
+                                "text": "Severe chest in drawings.",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": 8,
+                    "content": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "5ehos",
+                                "text": "Grunting.",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    },
+                    "type": "paragraph",
+                    "adapted": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "5ehos",
+                                "text": "Grunting.",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    },
+                    "translated": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "nbuc",
+                                "text": "Grunting.",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": 9,
+                    "content": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "6td35",
+                                "text": "Apnoea (no breathing for more than 15 seconds).",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    },
+                    "type": "paragraph",
+                    "adapted": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "6td35",
+                                "text": "Apnoea (no breathing for more than 15 seconds).",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    },
+                    "translated": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "4l44e",
+                                "text": "Apnoea (no breathing for more than 15 seconds).",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": 10,
+                    "content": {},
+                    "type": "divider",
+                    "adapted": {},
+                    "translated": ""
+                },
+                {
+                    "id": 11,
+                    "content": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "eokam",
+                                "text": "CIRCULATION",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    },
+                    "type": "alphabetical",
+                    "adapted": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "eokam",
+                                "text": "CIRCULATION",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    },
+                    "translated": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "6miet",
+                                "text": "CIRCULATION",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [
+                                    {
+                                        "offset": 0,
+                                        "length": 11,
+                                        "style": "BOLD"
+                                    }
+                                ],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": 12,
+                    "content": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "7r03v",
+                                "text": "Signs of shock including:",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    },
+                    "type": "paragraph",
+                    "adapted": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "7r03v",
+                                "text": "Signs of shock including:",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    },
+                    "translated": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "n0df",
+                                "text": "Signs of shock including:",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": 13,
+                    "content": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "3kqf0",
+                                "text": "Pale color.",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    },
+                    "type": "paragraph",
+                    "adapted": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "3kqf0",
+                                "text": "Pale color.",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    },
+                    "translated": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "49u9j",
+                                "text": "Pale color.",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": 14,
+                    "content": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "c1lo2",
+                                "text": "Weak pulse.",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    },
+                    "type": "paragraph",
+                    "adapted": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "c1lo2",
+                                "text": "Weak pulse.",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    },
+                    "translated": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "9lpad",
+                                "text": "Weak pulse.",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": 15,
+                    "content": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "87l6j",
+                                "text": "Hearth rate below 80 or above 180.",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    },
+                    "type": "paragraph",
+                    "adapted": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "87l6j",
+                                "text": "Hearth rate below 80 or above 180.",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    },
+                    "translated": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "b67lv",
+                                "text": "Hearth rate below 80 or above 180.",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": 16,
+                    "content": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "711ik",
+                                "text": "Capillary refill time more than 3 seconds.",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    },
+                    "type": "paragraph",
+                    "adapted": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "711ik",
+                                "text": "Capillary refill time more than 3 seconds.",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    },
+                    "translated": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "4gbve",
+                                "text": "Capillary refill time more than 3 seconds.",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": 17,
+                    "content": {},
+                    "type": "divider",
+                    "adapted": {},
+                    "translated": ""
+                },
+                {
+                    "id": 20,
+                    "content": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "5i3m7",
+                                "text": "DISABILITY",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    },
+                    "type": "alphabetical",
+                    "adapted": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "5i3m7",
+                                "text": "DISABILITY",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    },
+                    "translated": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "b1it3",
+                                "text": "DISABILITY",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [
+                                    {
+                                        "offset": 0,
+                                        "length": 10,
+                                        "style": "BOLD"
+                                    }
+                                ],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": 18,
+                    "content": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "d612o",
+                                "text": "Poor feeding/inability to suck.",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    },
+                    "type": "paragraph",
+                    "adapted": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "d612o",
+                                "text": "Poor feeding/inability to suck.",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    },
+                    "translated": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "5ofno",
+                                "text": "Poor feeding/inability to suck.",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": 21,
+                    "content": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "ct13i",
+                                "text": "Irritability.",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    },
+                    "type": "paragraph",
+                    "adapted": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "ct13i",
+                                "text": "Irritability.",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    },
+                    "translated": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "dltf9",
+                                "text": "Irritability.",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": 22,
+                    "content": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "f2cgp",
+                                "text": "Convulsions.",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    },
+                    "type": "paragraph",
+                    "adapted": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "f2cgp",
+                                "text": "Convulsions.",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    },
+                    "translated": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "aqf8k",
+                                "text": "Convulsions.",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": 23,
+                    "content": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "17k9",
+                                "text": "Decreased muscle tone.",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    },
+                    "type": "paragraph",
+                    "adapted": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "17k9",
+                                "text": "Decreased muscle tone.",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    },
+                    "translated": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "fu0n5",
+                                "text": "Decreased muscle tone.",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": 24,
+                    "content": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "dntq8",
+                                "text": "Decreased consciousness.",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    },
+                    "type": "paragraph",
+                    "adapted": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "dntq8",
+                                "text": "Decreased consciousness.",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    },
+                    "translated": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "c7sus",
+                                "text": "Decreased consciousness.",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": 25,
+                    "content": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "32i7s",
+                                "text": "Vomiting.",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    },
+                    "type": "paragraph",
+                    "adapted": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "32i7s",
+                                "text": "Vomiting.",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    },
+                    "translated": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "4omef",
+                                "text": "Vomiting.",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": 26,
+                    "content": {},
+                    "type": "divider",
+                    "adapted": {},
+                    "translated": ""
+                },
+                {
+                    "id": 27,
+                    "content": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "bmfiu",
+                                "text": "EXPOSURE",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    },
+                    "type": "alphabetical",
+                    "adapted": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "bmfiu",
+                                "text": "EXPOSURE",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    },
+                    "translated": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "119u1",
+                                "text": "EXPOSURE",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [
+                                    {
+                                        "offset": 0,
+                                        "length": 8,
+                                        "style": "BOLD"
+                                    }
+                                ],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": 28,
+                    "content": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "6otqa",
+                                "text": "Temperature below 36.5°C or above 37.5°C.",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    },
+                    "type": "paragraph",
+                    "adapted": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "6otqa",
+                                "text": "Temperature below 36.5°C or above 37.5°C.",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    },
+                    "translated": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "2gj2u",
+                                "text": "Temperature below 36.5°C or above 37.5°C.",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": 29,
+                    "content": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "88pfl",
+                                "text": "Red, tender umbilicus.",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    },
+                    "type": "paragraph",
+                    "adapted": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "88pfl",
+                                "text": "Red, tender umbilicus.",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    },
+                    "translated": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "eh4oh",
+                                "text": "Red, tender umbilicus.",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": 30,
+                    "content": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "an581",
+                                "text": "Severe jaundice.",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    },
+                    "type": "paragraph",
+                    "adapted": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "an581",
+                                "text": "Severe jaundice.",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    },
+                    "translated": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "4agbo",
+                                "text": "Severe jaundice.",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    }
+                }
+            ],
+            "description": "",
+            "next_id": 31
+        }
+    ],
+    "key": "danger-signs_1486807603214",
+    "langId": "3112adcd-21c9-a91c-4934-14213013851b",
+    "cards": [],
+    "description": "Newborn Management Danger Signs",
+    "icon": "/icon/actioncard/newborn_management_danger_signs",
+    "LastUpdatedBy": "jeppe@ingolfs.dk",
+    "LastUpdated": 1486849324432,
+    "_table": "action-cards",
+    "id": "727a9b0b-fafe-5387-f840-8463cebd2ede",
+    "_rid": "gco8APGv2QZQAQAAAAAAAA==",
+    "_self": "dbs/gco8AA==/colls/gco8APGv2QY=/docs/gco8APGv2QZQAQAAAAAAAA==/",
+    "_etag": "\"00008304-0000-0000-0000-58ae07bc0000\"",
+    "_attachments": "attachments/",
+    "_ts": 1487800245
+}

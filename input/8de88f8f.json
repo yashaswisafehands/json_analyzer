@@ -1,0 +1,1946 @@
+{
+    "chapters": [
+        {
+            "key": "pediatric-drugs_1486735985488",
+            "langId": "",
+            "cards": [
+                {
+                    "id": 1,
+                    "content": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "630cb",
+                                "text": "Drug dose of common drugs for newborns below one month of age.",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    },
+                    "type": "paragraph",
+                    "adapted": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "630cb",
+                                "text": "Drug dose of common drugs for newborns below one month of age.",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    },
+                    "translated": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "7rcgc",
+                                "text": " Drug dose of common drugs for newborns below one month of age. ",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": 2,
+                    "content": {},
+                    "type": "divider",
+                    "adapted": {},
+                    "translated": ""
+                },
+                {
+                    "id": 4,
+                    "content": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "dhbnb",
+                                "text": "Ampicillin",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [
+                                    {
+                                        "offset": 0,
+                                        "length": 10,
+                                        "style": "BLUE"
+                                    },
+                                    {
+                                        "offset": 0,
+                                        "length": 10,
+                                        "style": "BOLD"
+                                    }
+                                ],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    },
+                    "type": "paragraph",
+                    "adapted": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "dhbnb",
+                                "text": "Ampicillin",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [
+                                    {
+                                        "offset": 0,
+                                        "length": 10,
+                                        "style": "BLUE"
+                                    },
+                                    {
+                                        "offset": 0,
+                                        "length": 10,
+                                        "style": "BOLD"
+                                    }
+                                ],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    },
+                    "translated": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "2ojrm",
+                                "text": " Ampicillin ",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [
+                                    {
+                                        "offset": 1,
+                                        "length": 10,
+                                        "style": "BOLD"
+                                    },
+                                    {
+                                        "offset": 1,
+                                        "length": 11,
+                                        "style": "BLUE"
+                                    }
+                                ],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": 5,
+                    "content": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "4079h",
+                                "text": "Age: Under 7 days",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    },
+                    "type": "paragraph",
+                    "adapted": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "4079h",
+                                "text": "Age: Under 7 days",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    },
+                    "translated": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "cd40p",
+                                "text": " Age: Under 7 days ",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": 6,
+                    "content": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "cd22g",
+                                "text": "Administration: IM/IV",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    },
+                    "type": "paragraph",
+                    "adapted": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "cd22g",
+                                "text": "Administration: IM/IV",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    },
+                    "translated": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "1thu3",
+                                "text": " Administration: IM/IV ",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": 7,
+                    "content": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "9klje",
+                                "text": "Dose: 50mg/kg/dose x 2",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    },
+                    "type": "paragraph",
+                    "adapted": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "9klje",
+                                "text": "Dose: 50mg/kg/dose x 2",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    },
+                    "translated": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "ddf6d",
+                                "text": " Dose: 50mg/kg/dose x 2 ",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": 8,
+                    "content": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "7g4j8",
+                                "text": "  ",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    },
+                    "type": "paragraph",
+                    "adapted": {},
+                    "translated": ""
+                },
+                {
+                    "id": 9,
+                    "content": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "7mt9d",
+                                "text": "Age: Above 7 days",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    },
+                    "type": "paragraph",
+                    "adapted": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "7mt9d",
+                                "text": "Age: Above 7 days",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    },
+                    "translated": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "ereav",
+                                "text": " Age: Above 7 days ",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": 10,
+                    "content": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "fm7i2",
+                                "text": "Administration: IM/IV",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    },
+                    "type": "paragraph",
+                    "adapted": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "fm7i2",
+                                "text": "Administration: IM/IV",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    },
+                    "translated": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "68a1n",
+                                "text": " Administration: IM/IV ",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": 11,
+                    "content": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "1kjsb",
+                                "text": "Dose: 50 mg/kg/dose x 3",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    },
+                    "type": "paragraph",
+                    "adapted": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "1kjsb",
+                                "text": "Dose: 50 mg/kg/dose x 3",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    },
+                    "translated": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "adh56",
+                                "text": " Dose: 50 mg/kg/dose x 3 ",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": 13,
+                    "content": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "fobc6",
+                                "text": "  ",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    },
+                    "type": "paragraph",
+                    "adapted": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "fobc6",
+                                "text": "",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    },
+                    "translated": ""
+                },
+                {
+                    "id": 12,
+                    "content": {},
+                    "type": "divider",
+                    "adapted": {},
+                    "translated": ""
+                },
+                {
+                    "id": 14,
+                    "content": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "42g2f",
+                                "text": " Ceftriaxone",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [
+                                    {
+                                        "offset": 0,
+                                        "length": 12,
+                                        "style": "BOLD"
+                                    },
+                                    {
+                                        "offset": 0,
+                                        "length": 12,
+                                        "style": "BLUE"
+                                    }
+                                ],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    },
+                    "type": "paragraph",
+                    "adapted": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "42g2f",
+                                "text": " Ceftriaxone",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [
+                                    {
+                                        "offset": 0,
+                                        "length": 12,
+                                        "style": "BOLD"
+                                    },
+                                    {
+                                        "offset": 0,
+                                        "length": 12,
+                                        "style": "BLUE"
+                                    }
+                                ],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    },
+                    "translated": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "f34mb",
+                                "text": "Ceftriaxone ",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [
+                                    {
+                                        "offset": 0,
+                                        "length": 11,
+                                        "style": "BOLD"
+                                    },
+                                    {
+                                        "offset": 0,
+                                        "length": 12,
+                                        "style": "BLUE"
+                                    }
+                                ],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": 15,
+                    "content": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "1b0ge",
+                                "text": "Administration: IM/IV",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    },
+                    "type": "paragraph",
+                    "adapted": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "1b0ge",
+                                "text": "Administration: IM/IV",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    },
+                    "translated": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "9c5d2",
+                                "text": " Administration: IM/IV ",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": 16,
+                    "content": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "9g9as",
+                                "text": "Dose: 50/kg/dose x 2",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    },
+                    "type": "paragraph",
+                    "adapted": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "9g9as",
+                                "text": "Dose: 50/kg/dose x 2",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    },
+                    "translated": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "ougf",
+                                "text": " Dose: 50/kg/dose x 2 ",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": 17,
+                    "content": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "frhvc",
+                                "text": "OR",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    },
+                    "type": "paragraph",
+                    "adapted": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "frhvc",
+                                "text": "OR",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    },
+                    "translated": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "94v6e",
+                                "text": " OR ",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": 18,
+                    "content": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "14n1d",
+                                "text": "100 mg/kg/dose x 1",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    },
+                    "type": "paragraph",
+                    "adapted": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "14n1d",
+                                "text": "100 mg/kg/dose x 1",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    },
+                    "translated": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "1h36q",
+                                "text": " 100 mg/kg/dose x 1 ",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": 20,
+                    "content": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "321kl",
+                                "text": "  ",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    },
+                    "type": "paragraph",
+                    "adapted": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "321kl",
+                                "text": "",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    },
+                    "translated": ""
+                },
+                {
+                    "id": 19,
+                    "content": {},
+                    "type": "divider",
+                    "adapted": {},
+                    "translated": ""
+                },
+                {
+                    "id": 37,
+                    "content": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "cijro",
+                                "text": "Gentamycin",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [
+                                    {
+                                        "offset": 0,
+                                        "length": 10,
+                                        "style": "BOLD"
+                                    },
+                                    {
+                                        "offset": 0,
+                                        "length": 10,
+                                        "style": "BLUE"
+                                    }
+                                ],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    },
+                    "type": "paragraph",
+                    "adapted": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "cijro",
+                                "text": "Gentamycin",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [
+                                    {
+                                        "offset": 0,
+                                        "length": 10,
+                                        "style": "BOLD"
+                                    },
+                                    {
+                                        "offset": 0,
+                                        "length": 10,
+                                        "style": "BLUE"
+                                    }
+                                ],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    },
+                    "translated": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "9mh3n",
+                                "text": " Gentamycin ",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [
+                                    {
+                                        "offset": 0,
+                                        "length": 12,
+                                        "style": "BLUE"
+                                    },
+                                    {
+                                        "offset": 0,
+                                        "length": 12,
+                                        "style": "BOLD"
+                                    }
+                                ],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": 21,
+                    "content": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "et9gn",
+                                "text": "Age: Under 7 days",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    },
+                    "type": "paragraph",
+                    "adapted": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "et9gn",
+                                "text": "Age: Under 7 days",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    },
+                    "translated": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "7d1lh",
+                                "text": " Age: Under 7 days ",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": 22,
+                    "content": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "795q6",
+                                "text": "Weight: Below 2 kg",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    },
+                    "type": "paragraph",
+                    "adapted": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "795q6",
+                                "text": "Weight: Below 2 kg",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    },
+                    "translated": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "9ipn8",
+                                "text": " Weight: Below 2 kg ",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": 23,
+                    "content": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "d0hkj",
+                                "text": "Administration: IM/IV",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    },
+                    "type": "paragraph",
+                    "adapted": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "d0hkj",
+                                "text": "Administration: IM/IV",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    },
+                    "translated": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "ejvub",
+                                "text": " Administration: IM/IV ",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": 24,
+                    "content": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "80th2",
+                                "text": "Dose: 3 mg/kg/dose x 1",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    },
+                    "type": "paragraph",
+                    "adapted": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "80th2",
+                                "text": "Dose: 3 mg/kg/dose x 1",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    },
+                    "translated": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "d430c",
+                                "text": " Dose: 3 mg/kg/dose x 1 ",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": 25,
+                    "content": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "444l0",
+                                "text": "  ",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    },
+                    "type": "paragraph",
+                    "adapted": {},
+                    "translated": ""
+                },
+                {
+                    "id": 26,
+                    "content": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "dsvlv",
+                                "text": "Age: Under 7 days",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    },
+                    "type": "paragraph",
+                    "adapted": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "dsvlv",
+                                "text": "Age: Under 7 days",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    },
+                    "translated": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "eois0",
+                                "text": " Age: Under 7 days ",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": 27,
+                    "content": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "ago94",
+                                "text": "Weight: Above 2 kg",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    },
+                    "type": "paragraph",
+                    "adapted": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "ago94",
+                                "text": "Weight: Above 2 kg",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    },
+                    "translated": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "ejphq",
+                                "text": " Weight: Above 2 kg ",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": 28,
+                    "content": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "530f",
+                                "text": "Administration: IM/IV",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    },
+                    "type": "paragraph",
+                    "adapted": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "530f",
+                                "text": "Administration: IM/IV",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    },
+                    "translated": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "cjcg8",
+                                "text": " Administration: IM/IV",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": 29,
+                    "content": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "19go8",
+                                "text": "Dose: 5 mg/kg/dose x 1",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    },
+                    "type": "paragraph",
+                    "adapted": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "19go8",
+                                "text": "Dose: 5 mg/kg/dose x 1",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    },
+                    "translated": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "8imt1",
+                                "text": " Dose: 5 mg/kg/dose x 1",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": 30,
+                    "content": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "f7js2",
+                                "text": "  ",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    },
+                    "type": "paragraph",
+                    "adapted": {},
+                    "translated": ""
+                },
+                {
+                    "id": 31,
+                    "content": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "ef64r",
+                                "text": "Age: Above 7 days",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    },
+                    "type": "paragraph",
+                    "adapted": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "ef64r",
+                                "text": "Age: Above 7 days",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    },
+                    "translated": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "8eq2b",
+                                "text": " Age: Above 7 days",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": 32,
+                    "content": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "4ddt3",
+                                "text": "Dose: 7,5 mg/kg/dose x 1",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    },
+                    "type": "paragraph",
+                    "adapted": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "4ddt3",
+                                "text": "Dose: 7,5 mg/kg/dose x 1",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    },
+                    "translated": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "14q9t",
+                                "text": " Dose: 7,5 mg/kg/dose x 1",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": 33,
+                    "content": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "8d3gt",
+                                "text": "  ",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    },
+                    "type": "paragraph",
+                    "adapted": {},
+                    "translated": ""
+                },
+                {
+                    "id": 34,
+                    "content": {},
+                    "type": "divider",
+                    "adapted": {},
+                    "translated": ""
+                },
+                {
+                    "id": 35,
+                    "content": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "4ra6p",
+                                "text": "Phenobarbital",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [
+                                    {
+                                        "offset": 0,
+                                        "length": 13,
+                                        "style": "BLUE"
+                                    },
+                                    {
+                                        "offset": 0,
+                                        "length": 13,
+                                        "style": "BOLD"
+                                    }
+                                ],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    },
+                    "type": "paragraph",
+                    "adapted": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "4ra6p",
+                                "text": "Phenobarbital",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [
+                                    {
+                                        "offset": 0,
+                                        "length": 13,
+                                        "style": "BLUE"
+                                    },
+                                    {
+                                        "offset": 0,
+                                        "length": 13,
+                                        "style": "BOLD"
+                                    }
+                                ],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    },
+                    "translated": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "14lkc",
+                                "text": " Phenobarbital ",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [
+                                    {
+                                        "offset": 0,
+                                        "length": 15,
+                                        "style": "BLUE"
+                                    },
+                                    {
+                                        "offset": 0,
+                                        "length": 15,
+                                        "style": "BOLD"
+                                    }
+                                ],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": 36,
+                    "content": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "a3a5c",
+                                "text": "Loading Dose",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [
+                                    {
+                                        "offset": 0,
+                                        "length": 12,
+                                        "style": "BOLD"
+                                    }
+                                ],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    },
+                    "type": "paragraph",
+                    "adapted": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "a3a5c",
+                                "text": "Loading Dose",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [
+                                    {
+                                        "offset": 0,
+                                        "length": 12,
+                                        "style": "BOLD"
+                                    }
+                                ],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    },
+                    "translated": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "6n423",
+                                "text": " Loading Dose ",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [
+                                    {
+                                        "offset": 1,
+                                        "length": 12,
+                                        "style": "BOLD"
+                                    }
+                                ],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": 38,
+                    "content": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "fscoh",
+                                "text": "Administration: IM/IV/Oral",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    },
+                    "type": "paragraph",
+                    "adapted": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "fscoh",
+                                "text": "Administration: IM/IV/Oral",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    },
+                    "translated": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "4n12h",
+                                "text": " Administration: IM/IV/Oral ",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": 39,
+                    "content": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "53bol",
+                                "text": "Dose: 10 mg/kg/dose x 1",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    },
+                    "type": "paragraph",
+                    "adapted": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "53bol",
+                                "text": "Dose: 10 mg/kg/dose x 1",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    },
+                    "translated": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "11ora",
+                                "text": " Dose: 10 mg/kg/dose x 1 ",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": 40,
+                    "content": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "dmde9",
+                                "text": "repeat to max 40 mg/kg",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    },
+                    "type": "paragraph",
+                    "adapted": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "dmde9",
+                                "text": "repeat to max 40 mg/kg",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    },
+                    "translated": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "b32ae",
+                                "text": " repeat to max 40 mg/kg ",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": 41,
+                    "content": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "5uep1",
+                                "text": "  ",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    },
+                    "type": "paragraph",
+                    "adapted": {},
+                    "translated": ""
+                },
+                {
+                    "id": 42,
+                    "content": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "79eua",
+                                "text": "Maintenance Dose",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [
+                                    {
+                                        "offset": 0,
+                                        "length": 16,
+                                        "style": "BOLD"
+                                    }
+                                ],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    },
+                    "type": "paragraph",
+                    "adapted": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "79eua",
+                                "text": "Maintenance Dose",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [
+                                    {
+                                        "offset": 0,
+                                        "length": 16,
+                                        "style": "BOLD"
+                                    }
+                                ],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    },
+                    "translated": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "b9ubq",
+                                "text": " Maintenance Dose ",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [
+                                    {
+                                        "offset": 1,
+                                        "length": 16,
+                                        "style": "BOLD"
+                                    }
+                                ],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": 43,
+                    "content": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "39rv0",
+                                "text": "Administration: Oral",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    },
+                    "type": "paragraph",
+                    "adapted": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "39rv0",
+                                "text": "Administration: Oral",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    },
+                    "translated": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "ev5eu",
+                                "text": " Administration: Oral ",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": 44,
+                    "content": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "a0o7k",
+                                "text": "Dose: 5 mg/kg/dose x 1",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    },
+                    "type": "paragraph",
+                    "adapted": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "a0o7k",
+                                "text": "Dose: 5 mg/kg/dose x 1",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    },
+                    "translated": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "etku0",
+                                "text": " Dose: 5 mg/kg/dose x 1",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    }
+                }
+            ],
+            "description": "Pediatric Drugs",
+            "next_id": 45
+        },
+        {
+            "key": "fluid-management_1486736000649",
+            "langId": "",
+            "cards": [
+                {
+                    "id": 1,
+                    "content": {
+                        "html": "<table >\n                <tbody>\n                    <tr><th><div contentEditable>Age</div></th><th><div contentEditable>Fluid</div><div contentEditable>(accumulated oral, masogastric tube, iv)</div></th></tr>\n                    <tr><td><div contentEditable> 1 day</div></td><td><div contentEditable>60ml/kg</div></td></tr>\n                    <tr><td><div contentEditable>2 days</div></td><td><div contentEditable>90ml/kg</div></td></tr>\n                    <tr><td><div contentEditable>3 days</div></td><td><div contentEditable>120ml/kg</div></td></tr>\n                    <tr><td><div contentEditable>4 days</div></td><td><div contentEditable>120ml/kg</div></td></tr>\n                    <tr><td><div contentEditable>5 days</div></td><td><div contentEditable>150ml/kg</div></td></tr>\n                    <tr><td><div contentEditable>6 days</div></td><td><div contentEditable>150ml/kg</div></td></tr>\n                    <tr><td><div contentEditable>7 days - 1 month</div></td><td><div contentEditable>150-180ml/kg</div></td></tr>\n                </tbody>\n            </table>",
+                        "type": {
+                            "dispatchConfig": null,
+                            "_targetInst": null,
+                            "nativeEvent": null,
+                            "type": null,
+                            "target": null,
+                            "currentTarget": null,
+                            "eventPhase": null,
+                            "bubbles": null,
+                            "cancelable": null,
+                            "timeStamp": null,
+                            "defaultPrevented": null,
+                            "isTrusted": null,
+                            "view": null,
+                            "detail": null,
+                            "screenX": null,
+                            "screenY": null,
+                            "clientX": null,
+                            "clientY": null,
+                            "ctrlKey": null,
+                            "shiftKey": null,
+                            "altKey": null,
+                            "metaKey": null,
+                            "getModifierState": null,
+                            "button": null,
+                            "buttons": null,
+                            "relatedTarget": null,
+                            "pageX": null,
+                            "pageY": null,
+                            "isDefaultPrevented": null,
+                            "isPropagationStopped": null,
+                            "_dispatchListeners": null,
+                            "_dispatchInstances": null
+                        }
+                    },
+                    "type": "table",
+                    "adapted": {
+                        "html": "<table >\n                <tbody>\n                    <tr><th><div contentEditable>Age</div></th><th><div contentEditable>Fluid</div><div contentEditable>(accumulated oral, masogastric tube, iv)</div></th></tr>\n                    <tr><td><div contentEditable> 1 day</div></td><td><div contentEditable>60ml/kg</div></td></tr>\n                    <tr><td><div contentEditable>2 days</div></td><td><div contentEditable>90ml/kg</div></td></tr>\n                    <tr><td><div contentEditable>3 days</div></td><td><div contentEditable>120ml/kg</div></td></tr>\n                    <tr><td><div contentEditable>4 days</div></td><td><div contentEditable>120ml/kg</div></td></tr>\n                    <tr><td><div contentEditable>5 days</div></td><td><div contentEditable>150ml/kg</div></td></tr>\n                    <tr><td><div contentEditable>6 days</div></td><td><div contentEditable>150ml/kg</div></td></tr>\n                    <tr><td><div contentEditable>7 days - 1 month</div></td><td><div contentEditable>150-180ml/kg</div></td></tr>\n                </tbody>\n            </table>",
+                        "type": {
+                            "dispatchConfig": null,
+                            "_targetInst": null,
+                            "nativeEvent": null,
+                            "type": null,
+                            "target": null,
+                            "currentTarget": null,
+                            "eventPhase": null,
+                            "bubbles": null,
+                            "cancelable": null,
+                            "timeStamp": null,
+                            "defaultPrevented": null,
+                            "isTrusted": null,
+                            "view": null,
+                            "detail": null,
+                            "screenX": null,
+                            "screenY": null,
+                            "clientX": null,
+                            "clientY": null,
+                            "ctrlKey": null,
+                            "shiftKey": null,
+                            "altKey": null,
+                            "metaKey": null,
+                            "getModifierState": null,
+                            "button": null,
+                            "buttons": null,
+                            "relatedTarget": null,
+                            "pageX": null,
+                            "pageY": null,
+                            "isDefaultPrevented": null,
+                            "isPropagationStopped": null,
+                            "_dispatchListeners": null,
+                            "_dispatchInstances": null
+                        }
+                    },
+                    "translated": ""
+                }
+            ],
+            "description": "Fluid Management"
+        }
+    ],
+    "key": "pediatric-drugs-and-fluids_1486735917639",
+    "langId": "3112adcd-21c9-a91c-4934-14213013851b",
+    "cards": [],
+    "description": "Newborn Management Pediatric Drugs and Fluids",
+    "icon": "/icon/actioncard/newborn_management_pediatric_drugs_and_fluids",
+    "LastUpdatedBy": "jeppe@ingolfs.dk",
+    "LastUpdated": 1486852564550,
+    "_table": "action-cards",
+    "id": "8de88f8f-58b2-07fc-156a-0975e2fe82cd",
+    "_rid": "gco8APGv2QbfAAAAAAAAAA==",
+    "_self": "dbs/gco8AA==/colls/gco8APGv2QY=/docs/gco8APGv2QbfAAAAAAAAAA==/",
+    "_etag": "\"00006a04-0000-0000-0000-58ae07bb0000\"",
+    "_attachments": "attachments/",
+    "_ts": 1487800244
+}

@@ -1,0 +1,2473 @@
+{
+    "chapters": [
+        {
+            "key": "bp-140-15090100_1486816049815",
+            "langId": "",
+            "cards": [
+                {
+                    "id": 1,
+                    "content": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "ajjia",
+                                "text": "If no signs of severe preeclampsia (see definitions):",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [
+                                    {
+                                        "offset": 3,
+                                        "length": 32,
+                                        "style": "BOLD"
+                                    }
+                                ],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    },
+                    "type": "paragraph",
+                    "adapted": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "ajjia",
+                                "text": "If no signs of severe preeclampsia (see definitions):",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [
+                                    {
+                                        "offset": 3,
+                                        "length": 32,
+                                        "style": "BOLD"
+                                    }
+                                ],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    },
+                    "translated": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "fvhd",
+                                "text": "If no signs of severe preeclampsia (see definitions):",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [
+                                    {
+                                        "offset": 3,
+                                        "length": 32,
+                                        "style": "BOLD"
+                                    }
+                                ],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": 2,
+                    "content": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "dsphe",
+                                "text": "Send home.",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    },
+                    "type": "paragraph",
+                    "adapted": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "dsphe",
+                                "text": "Send home.",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    },
+                    "translated": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "cln0r",
+                                "text": "Send home. ",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": 3,
+                    "content": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "154cr",
+                                "text": "Schedule follow up appointment in 3-4 days, instruct in danger signs.",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    },
+                    "type": "paragraph",
+                    "adapted": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "154cr",
+                                "text": "Schedule follow up appointment in 3-4 days, instruct in danger signs.",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    },
+                    "translated": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "dvk3m",
+                                "text": "Schedule follow up appointment in 3-4 days, instruct in danger signs. ",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": 4,
+                    "content": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "8keb8",
+                                "text": "Plan delivery at referral facility, induction of labor at gestational age 38-39 if this procedure is performed and if gestational age is known.",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    },
+                    "type": "paragraph",
+                    "adapted": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "8keb8",
+                                "text": "Plan delivery at referral facility, induction of labor at gestational age 38-39 if this procedure is performed and if gestational age is known.",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    },
+                    "translated": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "5p5vn",
+                                "text": "Plan delivery at referral facility, induction of labor at gestational age 38-39 if this procedure is performed and if gestational age is known. ",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    }
+                }
+            ],
+            "description": "BP 140-150/90/100",
+            "next_id": 5
+        },
+        {
+            "key": "bp-150-160100110_1486816264206",
+            "langId": "",
+            "cards": [
+                {
+                    "id": 1,
+                    "content": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "f9qbb",
+                                "text": "Admit and observe.",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    },
+                    "type": "paragraph",
+                    "adapted": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "f9qbb",
+                                "text": "Admit and observe.",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    },
+                    "translated": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "fti8k",
+                                "text": "Admit and observe. ",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": 2,
+                    "content": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "7gqko",
+                                "text": "Assess BP each 8 hours.",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    },
+                    "type": "paragraph",
+                    "adapted": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "7gqko",
+                                "text": "Assess BP each 8 hours.",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    },
+                    "translated": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "5afun",
+                                "text": "Assess BP each 8 hours.",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": 3,
+                    "content": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "7e3gp",
+                                "text": "If high blood pressure persists start oral antihypertensives for example:",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    },
+                    "type": "paragraph",
+                    "adapted": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "7e3gp",
+                                "text": "If high blood pressure persists start oral antihypertensives for example:",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    },
+                    "translated": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "rh1g",
+                                "text": "If high blood pressure persists start oral antihypertensives for example: ",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": 4,
+                    "content": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "9v72d",
+                                "text": "Labetatol starting dose: 100 mg orally every 8 hours (can be repeated hourly)",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [
+                                    {
+                                        "offset": 0,
+                                        "length": 9,
+                                        "style": "BLUE"
+                                    },
+                                    {
+                                        "offset": 25,
+                                        "length": 27,
+                                        "style": "BLUE"
+                                    },
+                                    {
+                                        "offset": 9,
+                                        "length": 1,
+                                        "style": "BOLD"
+                                    }
+                                ],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    },
+                    "type": "paragraph",
+                    "adapted": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "9v72d",
+                                "text": "Labetatol starting dose: 100 mg orally every 8 hours (can be repeated hourly)",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [
+                                    {
+                                        "offset": 0,
+                                        "length": 9,
+                                        "style": "BLUE"
+                                    },
+                                    {
+                                        "offset": 25,
+                                        "length": 27,
+                                        "style": "BLUE"
+                                    },
+                                    {
+                                        "offset": 9,
+                                        "length": 1,
+                                        "style": "BOLD"
+                                    }
+                                ],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    },
+                    "translated": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "67i15",
+                                "text": "Labetatol starting dose: 100 mg orally every 8 hours (can be repeated hourly) ",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [
+                                    {
+                                        "offset": 0,
+                                        "length": 9,
+                                        "style": "BLUE"
+                                    },
+                                    {
+                                        "offset": 25,
+                                        "length": 28,
+                                        "style": "BLUE"
+                                    }
+                                ],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": 5,
+                    "content": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "6rrd3",
+                                "text": "OR",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    },
+                    "type": "paragraph",
+                    "adapted": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "6rrd3",
+                                "text": "OR",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    },
+                    "translated": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "cin0i",
+                                "text": "OR",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": 6,
+                    "content": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "6nam2",
+                                "text": "Methyldopa starting dose: 250 mg orally every 8 hours. See drug list for more details.",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [
+                                    {
+                                        "offset": 0,
+                                        "length": 11,
+                                        "style": "BLUE"
+                                    },
+                                    {
+                                        "offset": 26,
+                                        "length": 27,
+                                        "style": "BLUE"
+                                    }
+                                ],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    },
+                    "type": "paragraph",
+                    "adapted": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "6nam2",
+                                "text": "Methyldopa starting dose: 250 mg orally every 8 hours. See drug list for more details.",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [
+                                    {
+                                        "offset": 0,
+                                        "length": 11,
+                                        "style": "BLUE"
+                                    },
+                                    {
+                                        "offset": 26,
+                                        "length": 27,
+                                        "style": "BLUE"
+                                    }
+                                ],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    },
+                    "translated": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "40h7k",
+                                "text": "Methyldopa starting dose: 250 mg orally every 8 hours. See drug list for more details. ",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [
+                                    {
+                                        "offset": 26,
+                                        "length": 27,
+                                        "style": "BLUE"
+                                    }
+                                ],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": 7,
+                    "content": {},
+                    "type": "divider",
+                    "adapted": {},
+                    "translated": ""
+                },
+                {
+                    "id": 8,
+                    "content": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "7ngnd",
+                                "text": "If blood pressure is reduced to between 140-150 systolic and 90-100 diastolic AND if there are no signs of severe preeclampsia (see definitions), the patient can be sent home.",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [
+                                    {
+                                        "offset": 95,
+                                        "length": 32,
+                                        "style": "BOLD"
+                                    }
+                                ],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    },
+                    "type": "paragraph",
+                    "adapted": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "7ngnd",
+                                "text": "If blood pressure is reduced to between 140-150 systolic and 90-100 diastolic AND if there are no signs of severe preeclampsia (see definitions), the patient can be sent home.",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [
+                                    {
+                                        "offset": 95,
+                                        "length": 32,
+                                        "style": "BOLD"
+                                    }
+                                ],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    },
+                    "translated": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "2modf",
+                                "text": "If blood pressure is reduced to between 140-150 systolic and 90-100 diastolic AND if there are no signs of severe preeclampsia (see definitions), the patient can be sent home. ",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [
+                                    {
+                                        "offset": 95,
+                                        "length": 32,
+                                        "style": "BOLD"
+                                    }
+                                ],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": 9,
+                    "content": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "mvu",
+                                "text": "Schedule follow up appointment in 3-4 days, instruct in danger signs.",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    },
+                    "type": "paragraph",
+                    "adapted": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "mvu",
+                                "text": "Schedule follow up appointment in 3-4 days, instruct in danger signs.",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    },
+                    "translated": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "aja40",
+                                "text": "Schedule follow up appointment in 3-4 days, instruct in danger signs. ",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": 10,
+                    "content": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "ff6le",
+                                "text": "Plan for delivery at referral facility, induction of labor at gestational age 38-39 if this procedure is performed and if gestational age is known.",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    },
+                    "type": "paragraph",
+                    "adapted": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "ff6le",
+                                "text": "Plan for delivery at referral facility, induction of labor at gestational age 38-39 if this procedure is performed and if gestational age is known.",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    },
+                    "translated": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "fkvem",
+                                "text": "Plan for delivery at referral facility, induction of labor at gestational age 38-39 if this procedure is performed and if gestational age is known. ",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    }
+                }
+            ],
+            "description": "BP 150-160/100/110",
+            "next_id": 11
+        },
+        {
+            "key": "severe-preeclampsia_1486816564029",
+            "langId": "",
+            "cards": [
+                {
+                    "id": 1,
+                    "content": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "8al59",
+                                "text": "See definitions",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    },
+                    "type": "paragraph",
+                    "adapted": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "8al59",
+                                "text": "See definitions",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    },
+                    "translated": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "7brb4",
+                                "text": "See definitions ",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": 2,
+                    "content": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "ahion",
+                                "text": "Admit and treat.",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    },
+                    "type": "paragraph",
+                    "adapted": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "ahion",
+                                "text": "Admit and treat.",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    },
+                    "translated": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "65pqk",
+                                "text": "Admit and treat. ",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": 3,
+                    "content": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "d5sud",
+                                "text": "THE SINGLE MOST IMPORTANT AIM IS TO KEEP SYSTOLIC BP BELOW 160 mmHg!",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [
+                                    {
+                                        "offset": 0,
+                                        "length": 15,
+                                        "style": "BOLD"
+                                    },
+                                    {
+                                        "offset": 16,
+                                        "length": 19,
+                                        "style": "BOLD"
+                                    },
+                                    {
+                                        "offset": 36,
+                                        "length": 16,
+                                        "style": "BOLD"
+                                    },
+                                    {
+                                        "offset": 53,
+                                        "length": 15,
+                                        "style": "BOLD"
+                                    }
+                                ],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    },
+                    "type": "important_text",
+                    "adapted": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "d5sud",
+                                "text": "THE SINGLE MOST IMPORTANT AIM IS TO KEEP SYSTOLIC BP BELOW 160 mmHg!",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [
+                                    {
+                                        "offset": 0,
+                                        "length": 15,
+                                        "style": "BOLD"
+                                    },
+                                    {
+                                        "offset": 16,
+                                        "length": 19,
+                                        "style": "BOLD"
+                                    },
+                                    {
+                                        "offset": 36,
+                                        "length": 16,
+                                        "style": "BOLD"
+                                    },
+                                    {
+                                        "offset": 53,
+                                        "length": 15,
+                                        "style": "BOLD"
+                                    }
+                                ],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    },
+                    "translated": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "3220d",
+                                "text": "THE SINGLE MOST IMPORTANT AIM IS TO KEEP SYSTOLIC BP BELOW 160 mmHg! ",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [
+                                    {
+                                        "offset": 0,
+                                        "length": 15,
+                                        "style": "BOLD"
+                                    },
+                                    {
+                                        "offset": 16,
+                                        "length": 19,
+                                        "style": "BOLD"
+                                    },
+                                    {
+                                        "offset": 36,
+                                        "length": 16,
+                                        "style": "BOLD"
+                                    },
+                                    {
+                                        "offset": 53,
+                                        "length": 15,
+                                        "style": "BOLD"
+                                    }
+                                ],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": 4,
+                    "content": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "1j247",
+                                "text": "Insert indwelling urine catheter.",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    },
+                    "type": "paragraph",
+                    "adapted": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "1j247",
+                                "text": "Insert indwelling urine catheter.",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    },
+                    "translated": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "hlre",
+                                "text": " Insert indwelling urine catheter. ",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": 5,
+                    "content": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "ago2t",
+                                "text": "Monitor each ½ hour until stable, then each 8 hours:",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    },
+                    "type": "paragraph",
+                    "adapted": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "ago2t",
+                                "text": "Monitor each ½ hour until stable, then each 8 hours:",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    },
+                    "translated": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "a4sj5",
+                                "text": " Monitor each ½ hour until stable, then each 8 hours: ",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": 6,
+                    "content": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "18ql9",
+                                "text": "Fluid balance",
+                                "type": "ordered-list-item",
+                                "depth": 0,
+                                "inlineStyleRanges": [],
+                                "entityRanges": [],
+                                "data": {}
+                            },
+                            {
+                                "key": "a2gg4",
+                                "text": "Respiratory rate",
+                                "type": "ordered-list-item",
+                                "depth": 0,
+                                "inlineStyleRanges": [],
+                                "entityRanges": [],
+                                "data": {}
+                            },
+                            {
+                                "key": "rt83",
+                                "text": "Blood pressure",
+                                "type": "ordered-list-item",
+                                "depth": 0,
+                                "inlineStyleRanges": [],
+                                "entityRanges": [],
+                                "data": {}
+                            },
+                            {
+                                "key": "kd0k",
+                                "text": "Tendon reflexes",
+                                "type": "ordered-list-item",
+                                "depth": 0,
+                                "inlineStyleRanges": [],
+                                "entityRanges": [],
+                                "data": {}
+                            },
+                            {
+                                "key": "eh1vd",
+                                "text": "Fetal heart rate  ",
+                                "type": "ordered-list-item",
+                                "depth": 0,
+                                "inlineStyleRanges": [],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    },
+                    "type": "ol",
+                    "adapted": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "18ql9",
+                                "text": "Fluid balance",
+                                "type": "ordered-list-item",
+                                "depth": 0,
+                                "inlineStyleRanges": [],
+                                "entityRanges": [],
+                                "data": {}
+                            },
+                            {
+                                "key": "a2gg4",
+                                "text": "Respiratory rate",
+                                "type": "ordered-list-item",
+                                "depth": 0,
+                                "inlineStyleRanges": [],
+                                "entityRanges": [],
+                                "data": {}
+                            },
+                            {
+                                "key": "rt83",
+                                "text": "Blood pressure",
+                                "type": "ordered-list-item",
+                                "depth": 0,
+                                "inlineStyleRanges": [],
+                                "entityRanges": [],
+                                "data": {}
+                            },
+                            {
+                                "key": "kd0k",
+                                "text": "Tendon reflexes",
+                                "type": "ordered-list-item",
+                                "depth": 0,
+                                "inlineStyleRanges": [],
+                                "entityRanges": [],
+                                "data": {}
+                            },
+                            {
+                                "key": "eh1vd",
+                                "text": "Fetal heart rate  ",
+                                "type": "ordered-list-item",
+                                "depth": 0,
+                                "inlineStyleRanges": [],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    },
+                    "translated": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "18ql9",
+                                "text": "",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [],
+                                "entityRanges": [],
+                                "data": {}
+                            },
+                            {
+                                "key": "a2iik",
+                                "text": "Fluid balance",
+                                "type": "ordered-list-item",
+                                "depth": 0,
+                                "inlineStyleRanges": [],
+                                "entityRanges": [],
+                                "data": {}
+                            },
+                            {
+                                "key": "fj293",
+                                "text": "Respiratory rate",
+                                "type": "ordered-list-item",
+                                "depth": 0,
+                                "inlineStyleRanges": [],
+                                "entityRanges": [],
+                                "data": {}
+                            },
+                            {
+                                "key": "bdso3",
+                                "text": "Blood pressure",
+                                "type": "ordered-list-item",
+                                "depth": 0,
+                                "inlineStyleRanges": [],
+                                "entityRanges": [],
+                                "data": {}
+                            },
+                            {
+                                "key": "67u17",
+                                "text": "Tendon reflexes",
+                                "type": "ordered-list-item",
+                                "depth": 0,
+                                "inlineStyleRanges": [],
+                                "entityRanges": [],
+                                "data": {}
+                            },
+                            {
+                                "key": "dpgae",
+                                "text": "Fetal heart rate ",
+                                "type": "ordered-list-item",
+                                "depth": 0,
+                                "inlineStyleRanges": [],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": 7,
+                    "content": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "frnmv",
+                                "text": "If severe features persist: Plan referral for delivery within 24 hours.",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [
+                                    {
+                                        "offset": 0,
+                                        "length": 26,
+                                        "style": "BOLD"
+                                    }
+                                ],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    },
+                    "type": "paragraph",
+                    "adapted": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "frnmv",
+                                "text": "If severe features persist: Plan referral for delivery within 24 hours.",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [
+                                    {
+                                        "offset": 0,
+                                        "length": 26,
+                                        "style": "BOLD"
+                                    }
+                                ],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    },
+                    "translated": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "c2faf",
+                                "text": "If severe features persist: Plan referral for delivery within 24 hours. ",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [
+                                    {
+                                        "offset": 0,
+                                        "length": 26,
+                                        "style": "BOLD"
+                                    }
+                                ],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": 8,
+                    "content": {},
+                    "type": "divider",
+                    "adapted": {},
+                    "translated": ""
+                },
+                {
+                    "id": 9,
+                    "content": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "elbvv",
+                                "text": "Managing Blood Pressure",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [
+                                    {
+                                        "offset": 0,
+                                        "length": 23,
+                                        "style": "BOLD"
+                                    },
+                                    {
+                                        "offset": 0,
+                                        "length": 23,
+                                        "style": "BLUE"
+                                    }
+                                ],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    },
+                    "type": "paragraph",
+                    "adapted": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "elbvv",
+                                "text": "Managing Blood Pressure",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [
+                                    {
+                                        "offset": 0,
+                                        "length": 23,
+                                        "style": "BOLD"
+                                    },
+                                    {
+                                        "offset": 0,
+                                        "length": 23,
+                                        "style": "BLUE"
+                                    }
+                                ],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    },
+                    "translated": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "e93fu",
+                                "text": " Managing Blood Pressure ",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [
+                                    {
+                                        "offset": 0,
+                                        "length": 25,
+                                        "style": "BLUE"
+                                    },
+                                    {
+                                        "offset": 0,
+                                        "length": 25,
+                                        "style": "BOLD"
+                                    }
+                                ],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": 10,
+                    "content": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "aaa4f",
+                                "text": "At blood pressure between 150-160/100-110 start oral antihypertensives for example:",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [
+                                    {
+                                        "offset": 48,
+                                        "length": 22,
+                                        "style": "BLUE"
+                                    }
+                                ],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    },
+                    "type": "paragraph",
+                    "adapted": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "aaa4f",
+                                "text": "At blood pressure between 150-160/100-110 start oral antihypertensives for example:",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [
+                                    {
+                                        "offset": 48,
+                                        "length": 22,
+                                        "style": "BLUE"
+                                    }
+                                ],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    },
+                    "translated": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "jqc4",
+                                "text": " At blood pressure between 150-160/100-110 start oral antihypertensives for example: ",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [
+                                    {
+                                        "offset": 49,
+                                        "length": 22,
+                                        "style": "BLUE"
+                                    }
+                                ],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": 11,
+                    "content": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "24dkd",
+                                "text": "Labetatol starting dose: 100 mg orally every 8 hours (can be repeated hourly)",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [
+                                    {
+                                        "offset": 0,
+                                        "length": 10,
+                                        "style": "BOLD"
+                                    },
+                                    {
+                                        "offset": 0,
+                                        "length": 9,
+                                        "style": "BLUE"
+                                    },
+                                    {
+                                        "offset": 25,
+                                        "length": 27,
+                                        "style": "BLUE"
+                                    }
+                                ],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    },
+                    "type": "paragraph",
+                    "adapted": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "24dkd",
+                                "text": "Labetatol starting dose: 100 mg orally every 8 hours (can be repeated hourly)",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [
+                                    {
+                                        "offset": 0,
+                                        "length": 10,
+                                        "style": "BOLD"
+                                    },
+                                    {
+                                        "offset": 0,
+                                        "length": 9,
+                                        "style": "BLUE"
+                                    },
+                                    {
+                                        "offset": 25,
+                                        "length": 27,
+                                        "style": "BLUE"
+                                    }
+                                ],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    },
+                    "translated": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "1j0gg",
+                                "text": "Labetatol starting dose: 100 mg orally every 8 hours (can be repeated hourly) ",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [
+                                    {
+                                        "offset": 0,
+                                        "length": 9,
+                                        "style": "BOLD"
+                                    },
+                                    {
+                                        "offset": 0,
+                                        "length": 9,
+                                        "style": "BLUE"
+                                    }
+                                ],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": 12,
+                    "content": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "8avn6",
+                                "text": "OR",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    },
+                    "type": "paragraph",
+                    "adapted": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "8avn6",
+                                "text": "OR",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    },
+                    "translated": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "bad8k",
+                                "text": "OR",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": 13,
+                    "content": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "bhpcf",
+                                "text": "Methyldopa starting dose: 250 mg orally every 8 hours.",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [
+                                    {
+                                        "offset": 0,
+                                        "length": 10,
+                                        "style": "BOLD"
+                                    },
+                                    {
+                                        "offset": 0,
+                                        "length": 11,
+                                        "style": "BLUE"
+                                    },
+                                    {
+                                        "offset": 26,
+                                        "length": 27,
+                                        "style": "BLUE"
+                                    }
+                                ],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    },
+                    "type": "paragraph",
+                    "adapted": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "bhpcf",
+                                "text": "Methyldopa starting dose: 250 mg orally every 8 hours.",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [
+                                    {
+                                        "offset": 0,
+                                        "length": 10,
+                                        "style": "BOLD"
+                                    },
+                                    {
+                                        "offset": 0,
+                                        "length": 11,
+                                        "style": "BLUE"
+                                    },
+                                    {
+                                        "offset": 26,
+                                        "length": 27,
+                                        "style": "BLUE"
+                                    }
+                                ],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    },
+                    "translated": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "edqlv",
+                                "text": "Methyldopa starting dose: 250 mg orally every 8 hours. ",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [
+                                    {
+                                        "offset": 0,
+                                        "length": 10,
+                                        "style": "BOLD"
+                                    },
+                                    {
+                                        "offset": 0,
+                                        "length": 10,
+                                        "style": "BLUE"
+                                    },
+                                    {
+                                        "offset": 26,
+                                        "length": 28,
+                                        "style": "BLUE"
+                                    }
+                                ],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": 14,
+                    "content": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "99h1n",
+                                "text": "Persisting blood pressure =/> 160 syst. or 110 diastolic must be treated IV",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    },
+                    "type": "paragraph",
+                    "adapted": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "99h1n",
+                                "text": "Persisting blood pressure =/> 160 syst. or 110 diastolic must be treated IV",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    },
+                    "translated": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "5rnmc",
+                                "text": "Persisting blood pressure =/> 160 syst. or 110 diastolic must be treated IV",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": 15,
+                    "content": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "ec2rq",
+                                "text": "See drug list for more details.",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [
+                                    {
+                                        "offset": 0,
+                                        "length": 31,
+                                        "style": "BOLD"
+                                    }
+                                ],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    },
+                    "type": "paragraph",
+                    "adapted": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "ec2rq",
+                                "text": "See drug list for more details.",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [
+                                    {
+                                        "offset": 0,
+                                        "length": 31,
+                                        "style": "BOLD"
+                                    }
+                                ],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    },
+                    "translated": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "4fvvu",
+                                "text": "See drug list for more details. ",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [
+                                    {
+                                        "offset": 0,
+                                        "length": 31,
+                                        "style": "BOLD"
+                                    }
+                                ],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": 16,
+                    "content": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "701u",
+                                "text": "Assess blood pressure every 15 minutes.",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    },
+                    "type": "paragraph",
+                    "adapted": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "701u",
+                                "text": "Assess blood pressure every 15 minutes.",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    },
+                    "translated": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "aq5th",
+                                "text": "Assess blood pressure every 15 minutes.",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": 17,
+                    "content": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "2enhd",
+                                "text": "Repeat after 20 minutes until BP is below 160/110.",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    },
+                    "type": "paragraph",
+                    "adapted": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "2enhd",
+                                "text": "Repeat after 20 minutes until BP is below 160/110.",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    },
+                    "translated": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "avfcp",
+                                "text": "Repeat after 20 minutes until BP is below 160/110 ",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": 18,
+                    "content": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "f281c",
+                                "text": "See drug list for more details.",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [
+                                    {
+                                        "offset": 0,
+                                        "length": 31,
+                                        "style": "ITALIC"
+                                    }
+                                ],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    },
+                    "type": "paragraph",
+                    "adapted": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "f281c",
+                                "text": "See drug list for more details.",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [
+                                    {
+                                        "offset": 0,
+                                        "length": 31,
+                                        "style": "ITALIC"
+                                    }
+                                ],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    },
+                    "translated": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "ajei8",
+                                "text": "See drug list for more details. ",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [
+                                    {
+                                        "offset": 0,
+                                        "length": 31,
+                                        "style": "ITALIC"
+                                    }
+                                ],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": 19,
+                    "content": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "8kq2n",
+                                "text": "Prevention of Eclampsia",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [
+                                    {
+                                        "offset": 0,
+                                        "length": 23,
+                                        "style": "BOLD"
+                                    },
+                                    {
+                                        "offset": 0,
+                                        "length": 23,
+                                        "style": "BLUE"
+                                    }
+                                ],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    },
+                    "type": "paragraph",
+                    "adapted": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "8kq2n",
+                                "text": "Prevention of Eclampsia",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [
+                                    {
+                                        "offset": 0,
+                                        "length": 23,
+                                        "style": "BOLD"
+                                    },
+                                    {
+                                        "offset": 0,
+                                        "length": 23,
+                                        "style": "BLUE"
+                                    }
+                                ],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    },
+                    "translated": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "46cno",
+                                "text": "Prevention of Eclampsia ",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [
+                                    {
+                                        "offset": 0,
+                                        "length": 23,
+                                        "style": "BOLD"
+                                    },
+                                    {
+                                        "offset": 0,
+                                        "length": 24,
+                                        "style": "BLUE"
+                                    }
+                                ],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": 20,
+                    "content": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "2g8t6",
+                                "text": "Give loading dose Magnesium Sulphate 4 gr IV Slowly over 15-20 minutes (Ideally you mix it with for example 100 ml normal saline running 3 drops per second).",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [
+                                    {
+                                        "offset": 18,
+                                        "length": 52,
+                                        "style": "BLUE"
+                                    },
+                                    {
+                                        "offset": 45,
+                                        "length": 6,
+                                        "style": "BOLD"
+                                    }
+                                ],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    },
+                    "type": "paragraph",
+                    "adapted": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "2g8t6",
+                                "text": "Give loading dose Magnesium Sulphate 4 gr IV Slowly over 15-20 minutes (Ideally you mix it with for example 100 ml normal saline running 3 drops per second).",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [
+                                    {
+                                        "offset": 18,
+                                        "length": 52,
+                                        "style": "BLUE"
+                                    },
+                                    {
+                                        "offset": 45,
+                                        "length": 6,
+                                        "style": "BOLD"
+                                    }
+                                ],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    },
+                    "translated": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "fofcv",
+                                "text": "Give loading dose Magnesium Sulphate 4 gr IV Slowly over 15-20 minutes (Ideally you mix it with for example 100 ml normal saline running 3 drops per second). ",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [
+                                    {
+                                        "offset": 18,
+                                        "length": 52,
+                                        "style": "BLUE"
+                                    },
+                                    {
+                                        "offset": 45,
+                                        "length": 6,
+                                        "style": "BOLD"
+                                    }
+                                ],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": 21,
+                    "content": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "btd4a",
+                                "text": "If normal tendon reflexes and breathing: Give maintenance dose Magnesium Sulphate 5 gr 50 5 solution IM in each buttock (You can add ½ ml. 2% lidocaine for pain relief).",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [
+                                    {
+                                        "offset": 63,
+                                        "length": 40,
+                                        "style": "BLUE"
+                                    },
+                                    {
+                                        "offset": 133,
+                                        "length": 18,
+                                        "style": "BLUE"
+                                    }
+                                ],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    },
+                    "type": "paragraph",
+                    "adapted": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "btd4a",
+                                "text": "If normal tendon reflexes and breathing: Give maintenance dose Magnesium Sulphate 5 gr 50 5 solution IM in each buttock (You can add ½ ml. 2% lidocaine for pain relief).",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [
+                                    {
+                                        "offset": 63,
+                                        "length": 40,
+                                        "style": "BLUE"
+                                    },
+                                    {
+                                        "offset": 133,
+                                        "length": 18,
+                                        "style": "BLUE"
+                                    }
+                                ],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    },
+                    "translated": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "2ddl8",
+                                "text": "If normal tendon reflexes and breathing: Give maintenance dose Magnesium Sulphate 5 gr 50 5 solution IM in each buttock (You can add ½ ml. 2% lidocaine for pain relief). ",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [
+                                    {
+                                        "offset": 63,
+                                        "length": 40,
+                                        "style": "BLUE"
+                                    },
+                                    {
+                                        "offset": 133,
+                                        "length": 18,
+                                        "style": "BLUE"
+                                    }
+                                ],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": 22,
+                    "content": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "5fkod",
+                                "text": "See drug list for more details.",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [
+                                    {
+                                        "offset": 0,
+                                        "length": 31,
+                                        "style": "ITALIC"
+                                    }
+                                ],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    },
+                    "type": "paragraph",
+                    "adapted": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "5fkod",
+                                "text": "See drug list for more details.",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [
+                                    {
+                                        "offset": 0,
+                                        "length": 31,
+                                        "style": "ITALIC"
+                                    }
+                                ],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    },
+                    "translated": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "3j4gr",
+                                "text": "See drug list for more details. ",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [
+                                    {
+                                        "offset": 0,
+                                        "length": 31,
+                                        "style": "ITALIC"
+                                    }
+                                ],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": 23,
+                    "content": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "35ohn",
+                                "text": "Never give MgSO4 intravenously fast, as this causes cardiac arrest!",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [
+                                    {
+                                        "offset": 0,
+                                        "length": 67,
+                                        "style": "BOLD"
+                                    }
+                                ],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    },
+                    "type": "important_text",
+                    "adapted": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "35ohn",
+                                "text": "Never give MgSO4 intravenously fast, as this causes cardiac arrest!",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [
+                                    {
+                                        "offset": 0,
+                                        "length": 67,
+                                        "style": "BOLD"
+                                    }
+                                ],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    },
+                    "translated": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "ks2i",
+                                "text": "Never give MgSO4 intravenously fast, as this causes cardiac arrest! ",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [
+                                    {
+                                        "offset": 0,
+                                        "length": 67,
+                                        "style": "BOLD"
+                                    }
+                                ],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": 24,
+                    "content": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "9takn",
+                                "text": "Beware of toxicity!",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [
+                                    {
+                                        "offset": 0,
+                                        "length": 19,
+                                        "style": "BOLD"
+                                    }
+                                ],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    },
+                    "type": "paragraph",
+                    "adapted": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "9takn",
+                                "text": "Beware of toxicity!",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [
+                                    {
+                                        "offset": 0,
+                                        "length": 19,
+                                        "style": "BOLD"
+                                    }
+                                ],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    },
+                    "translated": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "7ep4d",
+                                "text": "Beware of toxicity! ",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [
+                                    {
+                                        "offset": 0,
+                                        "length": 19,
+                                        "style": "BOLD"
+                                    }
+                                ],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": 25,
+                    "content": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "108f2",
+                                "text": "The first sign is loss of tendon reflexes; a more severe sign is respiratory depression with a respiratory rate < 12 per minute.",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    },
+                    "type": "paragraph",
+                    "adapted": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "108f2",
+                                "text": "The first sign is loss of tendon reflexes; a more severe sign is respiratory depression with a respiratory rate < 12 per minute.",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    },
+                    "translated": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "bvra7",
+                                "text": "The first sign is loss of tendon reflexes; a more severe sign is respiratory depression with a respiratory rate < 12 per minute. ",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": 26,
+                    "content": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "cop7t",
+                                "text": "Then you don’t give the intramuscular dose of Magnesium Sulphate. Instead you give the antidote Calcium Gluconate 1 gr IV.",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [
+                                    {
+                                        "offset": 0,
+                                        "length": 122,
+                                        "style": "BOLD"
+                                    },
+                                    {
+                                        "offset": 24,
+                                        "length": 98,
+                                        "style": "BLUE"
+                                    }
+                                ],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    },
+                    "type": "paragraph",
+                    "adapted": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "cop7t",
+                                "text": "Then you don’t give the intramuscular dose of Magnesium Sulphate. Instead you give the antidote Calcium Gluconate 1 gr IV.",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [
+                                    {
+                                        "offset": 0,
+                                        "length": 122,
+                                        "style": "BOLD"
+                                    },
+                                    {
+                                        "offset": 24,
+                                        "length": 98,
+                                        "style": "BLUE"
+                                    }
+                                ],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    },
+                    "translated": {
+                        "entityMap": {},
+                        "blocks": [
+                            {
+                                "key": "4k7ff",
+                                "text": "Then you don’t give the intramuscular dose of Magnesium Sulphate. Instead you give the antidote Calcium Gluconate 1 gr IV",
+                                "type": "unstyled",
+                                "depth": 0,
+                                "inlineStyleRanges": [
+                                    {
+                                        "offset": 0,
+                                        "length": 121,
+                                        "style": "BOLD"
+                                    },
+                                    {
+                                        "offset": 24,
+                                        "length": 97,
+                                        "style": "BLUE"
+                                    }
+                                ],
+                                "entityRanges": [],
+                                "data": {}
+                            }
+                        ]
+                    }
+                }
+            ],
+            "description": "Severe Preeclampsia",
+            "next_id": 27
+        }
+    ],
+    "key": "management-hypertension_1486815930026",
+    "langId": "3112adcd-21c9-a91c-4934-14213013851b",
+    "cards": [],
+    "description": "Hypertension Management Hypertension",
+    "icon": "/icon/actioncard/hypertension_management_hypertension",
+    "LastUpdatedBy": "jeppe@ingolfs.dk",
+    "LastUpdated": 1486850356013,
+    "_table": "action-cards",
+    "id": "ba3e1dc0-b102-eada-b83a-eb20d92620a5",
+    "_rid": "gco8APGv2QYDAQAAAAAAAA==",
+    "_self": "dbs/gco8AA==/colls/gco8APGv2QY=/docs/gco8APGv2QYDAQAAAAAAAA==/",
+    "_etag": "\"00007204-0000-0000-0000-58ae07bb0000\"",
+    "_attachments": "attachments/",
+    "_ts": 1487800244
+}
