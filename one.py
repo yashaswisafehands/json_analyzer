@@ -10,7 +10,6 @@ def apply_styles(text: str, style_ranges: list) -> str:
     if not style_ranges:
         return text
     
-    # Sort by offset in reverse order to avoid position shifts
     style_ranges.sort(key=lambda r: r.get('offset', 0), reverse=True)
     
     for style_range in style_ranges:
@@ -23,7 +22,6 @@ def apply_styles(text: str, style_ranges: list) -> str:
         
         original_text_slice = text[offset : offset + length]
         
-        # Apply styling based on type
         if style == 'BOLD':
             styled_text = f"**{original_text_slice}**"
         elif style == 'ITALIC':
@@ -48,11 +46,9 @@ def parse_rich_text_block(content_block: dict) -> str:
         text = block.get('text', '')
         style_ranges = block.get('inlineStyleRanges', [])
         
-        # Apply inline styles
         if style_ranges:
             text = apply_styles(text, style_ranges)
         
-        # Handle block-level styles
         block_type = block.get('type', 'unstyled')
         if block_type == 'header-one':
             text = f"# {text}"
@@ -79,7 +75,6 @@ def enhance_clinical_content(text: str) -> str:
     if not text:
         return text
     
-    # Bold common clinical keywords if not already styled
     clinical_keywords = [
         r'\bOR\b', r'\bAND\b', r'\bIF\b', r'\bTHEN\b',
         r'\bmg\b', r'\bkg\b', r'\bIV\b', r'\bIM\b', r'\bPO\b',
@@ -89,10 +84,8 @@ def enhance_clinical_content(text: str) -> str:
     ]
     
     for keyword in clinical_keywords:
-        # Only bold if not already in markdown formatting
         text = re.sub(f'(?<!\\*)\\b({keyword.strip("\\b")})\\b(?!\\*)', r'**\1**', text, flags=re.IGNORECASE)
     
-    # Format dosages (e.g., "50 mg/kg" becomes "**50 mg/kg**")
     text = re.sub(r'(\d+\.?\d*\s*(?:mg|g|ml|L|kg|lb)(?:/(?:kg|day|hour|h))?)', r'**\1**', text)
     
     return text
@@ -101,24 +94,21 @@ def process_card(card: dict, version_key: str) -> str:
     """Process a single card and return its markdown representation."""
     card_type = card.get('type', 'paragraph')
     
-    # Get content based on version preference
     content_to_parse = card.get(version_key) or card.get('content')
     
     if not content_to_parse:
-        # Handle special card types without content
         if card_type == 'divider':
             return "---"
         elif card_type == 'divider_noline':
             return ""
         return ""
     
-    # Handle different content structures
     if isinstance(content_to_parse, dict):
-        if 'src' in content_to_parse:  # Image content
+        if 'src' in content_to_parse:  
             img_src = content_to_parse.get('src', '')
             alt_text = content_to_parse.get('alt', 'Image')
             return f"![{alt_text}]({img_src})" if img_src else ""
-        else:  # Rich text content
+        else:  
             md_text = parse_rich_text_block(content_to_parse)
     elif isinstance(content_to_parse, str):
         md_text = content_to_parse
@@ -131,10 +121,8 @@ def process_card(card: dict, version_key: str) -> str:
     if not md_text:
         return ""
     
-    # Apply clinical content enhancement
     md_text = enhance_clinical_content(md_text)
     
-    # Format based on card type
     if card_type == 'alphabetical':
         return f"### {md_text.upper()}"
     elif card_type == 'important_text':
@@ -177,15 +165,15 @@ def analyze_and_migrate_json(input_path: str, output_base_path: str):
         print(f"  -> [ERROR] Could not read or parse file: {e}")
         return
     
-    # Track available content versions
+
     versions = {"master": [], "adapted": [], "translated": []}
     has_adapted_content = False
     has_translated_content = False
     
-    # Main document title
+
     main_title = data.get('description', data.get('title', 'Untitled Document'))
     
-    # Add document header with metadata comment for frontend
+
     header_comment = f"<!-- \nGenerated from: {os.path.basename(input_path)}\nFor: Frontend Course Presentation\nGenerated on: {__import__('datetime').datetime.now().strftime('%Y-%m-%d %H:%M:%S')}\n-->\n\n"
     
     for version in versions:
@@ -198,11 +186,11 @@ def analyze_and_migrate_json(input_path: str, output_base_path: str):
     for chapter_idx, chapter in enumerate(chapters):
         chapter_title = chapter.get('description', chapter.get('title', 'Untitled Chapter'))
         
-        # Add chapter header
+
         for version in versions:
             versions[version].append(f"### {chapter_title.upper()}\n")
         
-        # Process cards in this chapter
+
         cards = chapter.get('cards', [])
         chapter_content = {"master": [], "adapted": [], "translated": []}
         
@@ -217,38 +205,38 @@ def analyze_and_migrate_json(input_path: str, output_base_path: str):
                 chapter_content["adapted"].append(adapted_content)
                 has_adapted_content = True
             else:
-                chapter_content["adapted"].append(master_content)  # Fallback to master
+                chapter_content["adapted"].append(master_content)  
             if translated_content:
                 chapter_content["translated"].append(translated_content)
                 has_translated_content = True
             else:
-                chapter_content["translated"].append(master_content)  # Fallback to master
+                chapter_content["translated"].append(master_content)  
         
-        # Add chapter content
+
         for version in versions:
             if chapter_content[version]:
                 versions[version].extend(chapter_content[version])
         
-        # Add chapter separator (except for last chapter)
+
         if chapter_idx < total_chapters - 1:
             next_chapter_title = chapters[chapter_idx + 1].get('description', chapters[chapter_idx + 1].get('title', 'Next Chapter'))
             separator = create_chapter_separator(next_chapter_title)
             for version in versions:
                 versions[version].append(separator)
     
-    # Generate final markdown content
+
     for version_name, content_parts in versions.items():
         if version_name == "master" or (version_name == "adapted" and has_adapted_content) or (version_name == "translated" and has_translated_content):
             final_markdown = "\n\n".join(filter(None, [part.strip() for part in content_parts if part]))
             
-            # Clean up extra whitespace and ensure consistent spacing
+
             final_markdown = re.sub(r'\n{3,}', '\n\n', final_markdown)
             final_markdown = final_markdown.strip()
             
             output_path = f"{output_base_path}_{version_name}.md"
             save_markdown_file(output_path, final_markdown)
     
-    # Info messages for skipped versions
+
     if not has_adapted_content:
         print("  -> [INFO] No 'adapted' content found. Skipping adapted.md file.")
     if not has_translated_content:
@@ -259,7 +247,7 @@ def main():
     print("--- Enhanced JSON Rich Text to Multi-Version Markdown Converter ---")
     print("--- Optimized for Frontend Course Presentation ---\n")
     
-    # Ensure output directory exists
+
     os.makedirs(OUTPUT_DIR, exist_ok=True)
     
     if not os.path.exists(INPUT_DIR):
@@ -279,7 +267,7 @@ def main():
         base_name = os.path.splitext(filename)[0]
         output_base_path = os.path.join(OUTPUT_DIR, base_name)
         analyze_and_migrate_json(input_path, output_base_path)
-        print()  # Empty line between files
+        print()  
     
     print("--- Conversion Complete ---")
     print(f"Output files saved in '{OUTPUT_DIR}' directory.")
