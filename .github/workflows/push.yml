@@ -7,7 +7,10 @@ on:
 
 jobs:
   build-and-push:
-    runs-on: yashaswi29/py3.13:latest
+    runs-on: ubuntu-latest
+    container:
+      image: yashaswi29/py3.13:latest
+      options: --privileged
 
     env:
       REGISTRY: sdav2.azurecr.io
