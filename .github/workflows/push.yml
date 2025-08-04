@@ -33,7 +33,7 @@ jobs:
 
       - name: Build and Push IAM image
         run: |
-          IMAGE_TAG=${GITHUB_SHA::7}  
+          IMAGE_TAG=$(echo "$GITHUB_SHA" | cut -c1-7)  
           podman build -t $REGISTRY/$IMAGE_IAM:$IMAGE_TAG -t $REGISTRY/$IMAGE_IAM:latest .
           podman push $REGISTRY/$IMAGE_IAM:$IMAGE_TAG
           podman push $REGISTRY/$IMAGE_IAM:latest
