@@ -16,6 +16,10 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
+      - name: Debug Info
+        run: |
+            uname -a
+            podman --version
 
       - name: Log in to ACR
         uses: azure/docker-login@v1
