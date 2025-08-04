@@ -8,9 +8,6 @@ on:
 jobs:
   build-and-push:
     runs-on: ubuntu-latest
-    container:
-      image: yashaswi29/py3.13:latest
-      options: --privileged
 
     env:
       REGISTRY: sdav2.azurecr.io
@@ -19,6 +16,15 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
+
+      - name: Install Podman
+        run: |
+            . /etc/os-release
+            echo "deb http://download.opensuse.org/repositories/devel:/kubic:/libcontainers:/stable/xUbuntu_${VERSION_ID}/ /" | sudo tee /etc/apt/sources.list.d/devel:kubic:libcontainers:stable.list
+            curl -L https://download.opensuse.org/repositories/devel:kubic:libcontainers:stable/xUbuntu_${VERSION_ID}/Release.key | sudo apt-key add -
+            sudo apt-get update
+            sudo apt-get -y install podman
+            
       - name: Debug Info
         run: |
             uname -a
