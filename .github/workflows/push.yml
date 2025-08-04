@@ -1,0 +1,32 @@
+name: Build and Push to ACR
+
+on:
+  push:
+    branches:
+      - master
+
+jobs:
+  build-and-push:
+    runs-on: yashaswi29/py3.13:latest
+
+    env:
+      REGISTRY: sdav2.azurecr.io
+      IMAGE_IAM: test
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Log in to ACR
+        uses: azure/docker-login@v1
+        with:
+          login-server: ${{ env.REGISTRY }}
+          username: ${{ secrets.ACR_USERNAME }}
+          password: ${{ secrets.ACR_PASSWORD }}
+
+      - name: Build and Push IAM image
+        run: |
+          IMAGE_TAG=${GITHUB_SHA::7}  
+          podman build -t $REGISTRY/$IMAGE_IAM:$IMAGE_TAG -t $REGISTRY/$IMAGE_IAM:latest .
+          podman push $REGISTRY/$IMAGE_IAM:$IMAGE_TAG
+          podman push $REGISTRY/$IMAGE_IAM:latest
